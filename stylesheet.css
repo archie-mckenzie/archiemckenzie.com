@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'EB Garamond';
+    src: url('./EB_Garamond/EBGaramond-VariableFont_wght.ttf') format('truetype');
+}
+
+body {
+    font-family: 'EB Garamond', serif;
+    line-height: 1.4;
+    padding: 0 10px;
+    margin: 50px auto;
+    max-width: 650px;
+}

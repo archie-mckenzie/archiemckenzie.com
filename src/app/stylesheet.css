@@ -1,0 +1,66 @@
+:root {
+  --font-color: black;
+  --background-color: white;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+      --font-color: white;
+      --background-color: #161616;
+  }
+  a {
+      color: lightblue;
+  }
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 1.5;
+  padding: 0 10px;
+  margin: auto;
+  width: 90vw;
+  max-width: 650px;
+  color: var(--font-color);
+  background-color: var(--background-color);
+  font-size: larger;
+}
+
+header {
+  text-align: center;
+}
+
+.title, .footer-text {
+  color: var(--font-color);
+  text-decoration: none;
+  font-size: smaller;
+}
+
+@media (min-width: 600px) {
+  .large-screen-break {
+      height: 10px;
+  }
+}
+
+.hidden-text {
+  color: var(--background-color);
+}
+
+hr {
+  color: var(--font-color);
+  border: solid 0.5px black;
+}
+
+.subtle-header {
+  margin-top: 2.5vh;
+}
+
+.footer {
+  margin-top: 2rem;
+  line-height: 2;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.subtle-link {
+  text-decoration: none;
+  color: var(--font-color);
+}

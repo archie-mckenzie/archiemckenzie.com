@@ -1,0 +1,19 @@
+import './stylesheet.css'
+import getSFEmoji from '../../js/sf'
+
+export const metadata = {
+  title: 'Archie McKenzie',
+  description: 'ɟƨiɟnɘiɔƧ ɿɘɟuqmoƆ',
+  openGraph: {
+    images: '/images/2023.jpg',
+  }
+}
+
+export default function RootLayout({ children }) {
+  return (
+    <html lang="en">
+      <head><link rel="icon" id="sf" href={`data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>${getSFEmoji()}</text></svg>`} /></head>
+      <body>{children}</body>
+    </html>
+  )
+}

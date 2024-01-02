@@ -72,3 +72,8 @@ hr {
   line-height: 2;
   columns: 2;
 }
+@media (max-width: 400px) {
+  .link-paragraph {
+    width: 225px;
+  }
+}

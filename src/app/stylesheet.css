@@ -22,7 +22,7 @@ body {
   font-size: larger;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 400px) {
   .large-screen-break {
       height: 10px;
   }
@@ -68,7 +68,7 @@ hr {
   line-height: 2;
   columns: 2;
 }
-@media (max-width: 600px) {
+@media (max-width: 400px) {
   main {
       font-size: x-large;
   }

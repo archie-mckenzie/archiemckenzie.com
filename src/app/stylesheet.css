@@ -16,16 +16,15 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   line-height: 1.5;
   padding: 0 10px;
-  margin: auto;
   width: 90vw;
-  max-width: 650px;
+  margin: auto;
   color: var(--font-color);
   background-color: var(--background-color);
   font-size: larger;
 }
 
 header {
-  text-align: center;
+  text-align: left;
 }
 
 .title, .footer-text {
@@ -63,4 +62,10 @@ hr {
 .subtle-link {
   text-decoration: none;
   color: var(--font-color);
+}
+
+.link-paragraph {
+  width: 175px;
+  line-height: 2;
+  columns: 2;
 }

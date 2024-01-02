@@ -5,7 +5,7 @@ export const metadata = {
   title: 'Archie McKenzie',
   description: 'ɟƨiɟnɘiɔƧ ɿɘɟuqmoƆ',
   openGraph: {
-    images: '/images/2023.jpg',
+    images: 'images/2023.jpg',
   }
 }
 

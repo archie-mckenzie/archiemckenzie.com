@@ -22,6 +22,10 @@ body {
   font-size: larger;
 }
 
+main {
+  line-height: 2;
+}
+
 @media (min-width: 400px) {
   .large-screen-break {
       height: 10px;

@@ -5,8 +5,10 @@ export default function ArchieMcKenzie() {
   return (
     <>
       <Title />
+      <main>
       <p>tbd</p>
       <Link href='/'>go back</Link>
+      </main>
     </>
   )
 }

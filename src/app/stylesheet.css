@@ -16,11 +16,16 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   line-height: 1.5;
   padding: 0 10px;
-  width: 90vw;
-  margin: auto;
+  margin-left: calc(5vw - 10px);
   color: var(--font-color);
   background-color: var(--background-color);
   font-size: larger;
+}
+
+@media (min-width: 600px) {
+  .large-screen-break {
+      height: 10px;
+  }
 }
 
 header {
@@ -31,12 +36,6 @@ header {
   color: var(--font-color);
   text-decoration: none;
   font-size: smaller;
-}
-
-@media (min-width: 600px) {
-  .large-screen-break {
-      height: 10px;
-  }
 }
 
 .hidden-text {
@@ -68,4 +67,12 @@ hr {
   width: 175px;
   line-height: 2;
   columns: 2;
+}
+@media (max-width: 600px) {
+  main {
+      font-size: x-large;
+  }
+  .link-paragraph {
+    width: 200px;
+  }
 }

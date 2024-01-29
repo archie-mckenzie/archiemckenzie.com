@@ -13,7 +13,7 @@ export default function ArchieMcKenzie() {
         <li>At undergrad, <Link href='documents/balliol.pdf' target="_blank">turned down</Link> Classics at Oxford for Princeton CS</li>
         <li><Link href='https://en.wikipedia.org/wiki/Brian_Kernighan' target='_blank'>Brian Kernighan</Link>'s TA from 2021-24</li>
         <li>Worked for <Link href='https://humanprogress.org' target="_blank">Human Progress</Link> and <Link href="https://pessimistsarchive.org/" target="_blank">Pessimists Archive</Link></li>
-        <li>Currently building something new with <Link href='https://www.linkedin.com/in/fernando-aviles/' target="_blank">Fernando Avilés-García</Link></li>
+        <li>Currently building <Link href='https://codex.generaltranslation.com' target="_blank">something new</Link> with <Link href='https://www.linkedin.com/in/fernando-aviles/' target="_blank">Fernando Avilés-García</Link></li>
       </ul>
       <Link href='/'>←</Link>
       </main>

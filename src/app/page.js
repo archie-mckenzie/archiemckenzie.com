@@ -7,11 +7,6 @@ export default function ArchieMcKenzie() {
       <Title />
       <main>
       <p>Computer Science '24<br/>+ Ancient Greek<br/>@ Princeton</p>
-      <p>
-        Past: UK, Kenya, NZ
-        <br/>
-        Present: USA
-      </p>
       <p className='link-paragraph'>
         <Link href="/about">About</Link>
         <br/>

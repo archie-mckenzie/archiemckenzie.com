@@ -20,6 +20,7 @@ body {
   color: var(--font-color);
   background-color: var(--background-color);
   font-size: larger;
+  max-width: 600px;
 }
 
 main {

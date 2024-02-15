@@ -12,7 +12,7 @@ export default function ArchieMcKenzie() {
         <br/>
         <Link href="https://archiemckenzie.substack.com" target="_blank">Writing</Link>
         <br/>
-        <Link href='https://archiemckenzie.substack.com/p/further-reading' target="_blank">Reading</Link>
+        <Link href='https://generaltranslation.com' target="_blank">Work</Link>
         <br/>
         <Link href='https://linkedin.com/in/archie-mckenzie' target="_blank">LinkedIn</Link>
         <br/>

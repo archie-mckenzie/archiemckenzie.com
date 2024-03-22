@@ -10,7 +10,7 @@ export default function ArchieMcKenzie() {
         I am the co-founder of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>,  a company which makes simple, powerful AI translation tools.
       </p>
       <p>
-        I grew up in the UK, but moved to the US to attend Princeton University. My degree is Computer Science, with a minor in Ancient Greek graduating May 2024.
+        I grew up in the UK, but moved to the US to attend Princeton University. My degree is Computer Science, with a minor in Ancient Greek, graduating May 2024.
       </p>
       <p className='link-paragraph'>
         <Link href="/about">About</Link>

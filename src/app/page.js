@@ -12,7 +12,7 @@ export default function ArchieMcKenzie() {
       <p className='link-paragraph'>
         <Link href="/about">About</Link>
         <br/>
-        <Link href="https://archiemckenzie.substack.com" target="_blank">Thoughts</Link>
+        <Link href="https://archiemckenzie.substack.com" target="_blank">Ideas</Link>
         <br/>
         <Link href='https://codex.ai' target="_blank">Codex</Link>
         <br/>

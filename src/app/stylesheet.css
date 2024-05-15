@@ -1,15 +1,22 @@
 :root {
   --font-color: black;
   --background-color: white;
+  --link-color: blue;
 }
 @media (prefers-color-scheme: dark) {
   :root {
       --font-color: white;
       --background-color: #161616;
+      --link-color: lightblue;
   }
   a {
-      color: lightblue;
+    color: var(--link-color);
   }
+}
+
+.link-like {
+  text-decoration: underline;
+  cursor: pointer;
 }
 
 body {

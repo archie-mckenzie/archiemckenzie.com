@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import { useState } from 'react'
+import Title from '../../../components/Title';
 
 export default function ArchieMcKenzie() {
 
@@ -13,10 +14,7 @@ export default function ArchieMcKenzie() {
 
   return (
     <>
-      <header>
-            <div className='large-screen-break' />
-            <h1><Link className='title' href='https://archiemckenzie.com'>Archibald K. S. McKenzie</Link></h1>
-      </header>
+      <Title />
       <main>
       <ul>
         <li>Grew up in <Link href='https://en.wikipedia.org/wiki/Bath,_Somerset' target="_blank">Bath</Link>, England, as well as New Zealand and Kenya.</li>

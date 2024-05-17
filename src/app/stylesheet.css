@@ -2,16 +2,40 @@
   --font-color: black;
   --background-color: white;
   --link-color: blue;
+  --muted-color: rgb(64, 64, 64);
 }
 @media (prefers-color-scheme: dark) {
   :root {
       --font-color: white;
       --background-color: #161616;
       --link-color: lightblue;
+      --muted-color: rgb(192, 192, 192);
   }
   a {
     color: var(--link-color);
   }
+}
+
+.muted {
+  color: var(--muted-color);
+}
+
+.no-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.blog-title {
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+
+.title {
+  text-wrap: pretty;
+}
+
+.blog-description {
+  font-size: medium;
 }
 
 .link-like {
@@ -27,10 +51,10 @@ body {
   color: var(--font-color);
   background-color: var(--background-color);
   font-size: larger;
-  max-width: 600px;
 }
 
 main {
+  max-width: 600px;
   line-height: 2;
 }
 
@@ -44,7 +68,7 @@ header {
   text-align: left;
 }
 
-.title, .footer-text {
+.footer-text {
   color: var(--font-color);
   text-decoration: none;
   font-size: smaller;
@@ -56,7 +80,7 @@ header {
 
 hr {
   color: var(--font-color);
-  border: solid 0.5px black;
+  border: solid 0.5px var(--muted-color);
 }
 
 .subtle-header {

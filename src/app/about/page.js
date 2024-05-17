@@ -2,7 +2,8 @@
 
 import Link from 'next/link'
 import { useState } from 'react'
-import Title from '../../../components/Title';
+import Title from '../../components/Title';
+import BackArrow from '@/components/BackArrow';
 
 export default function ArchieMcKenzie() {
 
@@ -27,7 +28,7 @@ export default function ArchieMcKenzie() {
         <li>Worked for <Link href='https://humanprogress.org' target="_blank">Human Progress</Link> and <Link href="https://pessimistsarchive.org/" target="_blank">Pessimists Archive</Link>.</li>
         <li>CEO of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, which I co-founded with <Link href='https://www.linkedin.com/in/fernando-aviles/' target="_blank">Fernando Avilés-García</Link>.</li>
       </ul>
-      <Link href='/'>←</Link>
+      <BackArrow />
       </main>
     </>
   )

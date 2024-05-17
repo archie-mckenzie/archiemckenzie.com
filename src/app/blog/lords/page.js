@@ -37,7 +37,7 @@ export default function Blog() {
         <p>The House of Lords still has 92 hereditary peers, appointed by and from a group of about a thousand people who inherit their titles.</p>
       </li>
       <li>
-        <p>It’s just not sensible, as a rule, for seats in Parliament to be handed out like that. (And I write this aware that I'm in very distant remainder to a <Link target='_blank' href='https://wikipedia.org/wiki/Lord_Herries_of_Terregles'>peerage</Link> myself.)</p>
+        <p>It’s just not sensible, as a rule, for seats in Parliament to be handed out like that. (I write this knowing that I am in very distant remainder to a <Link target='_blank' href='https://wikipedia.org/wiki/Lord_Herries_of_Terregles'>peerage</Link> myself.)</p>
       </li>
     </ul>
   </li>

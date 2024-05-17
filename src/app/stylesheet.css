@@ -2,7 +2,7 @@
   --font-color: black;
   --background-color: white;
   --link-color: blue;
-  --muted-color: rgb(64, 64, 64);
+  --muted-color: rgb(94, 94, 94);
 }
 @media (prefers-color-scheme: dark) {
   :root {

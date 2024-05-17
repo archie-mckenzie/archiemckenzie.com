@@ -2,11 +2,7 @@ import './stylesheet.css'
 import getSFEmoji from '../../js/sf'
 
 export const metadata = {
-  title: 'Archie McKenzie',
-  description: 'ɟƨiɟnɘiɔƧ ɿɘɟuqmoƆ',
-  openGraph: {
-    images: 'images/2023.jpg',
-  }
+  title: 'Archie McKenzie'
 }
 
 export default function RootLayout({ children }) {

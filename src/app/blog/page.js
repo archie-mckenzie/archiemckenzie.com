@@ -2,11 +2,14 @@ import BackArrow from "@/components/BackArrow"
 import BlogItem from "../../components/BlogItem"
 import Title from "../../components/Title"
 
+import { I18N } from '@generaltranslation/react'
+
 export default function Blog() {
     return (
         <>
             <Title />
             <main>
+                <I18N>
                 <BlogItem 
                     title='How to reform the House of Lords'
                     description='My proposal as a clear-thinking expatriate'
@@ -55,6 +58,7 @@ export default function Blog() {
                     href='https://www.spectator.co.uk/article/uganda-faces-a-fraught-election/'
                     date='9th January 2021'
                 />
+                </I18N>
             </main>
             <br/>
             <BackArrow />

@@ -1,5 +1,6 @@
 import BackArrow from "@/components/BackArrow"
 import CustomTitle from "@/components/CustomTitle"
+import { NextI18N, I18N } from "@generaltranslation/react"
 
 const title = "Churchill on American Ambition"
 const description = '"Business to the American is more than the means of earning a living"'
@@ -13,6 +14,8 @@ export const metadata = {
 export default function Blog() {
     return (
         <>
+          <NextI18N projectID='a78b0eb9-c0b4-4bde-8fcb-cceee91abd76'>
+            <I18N>
             <CustomTitle href={'/blog'}>{title}</CustomTitle>
             <main>
                 
@@ -36,8 +39,10 @@ export default function Blog() {
       <p>[1] <em>The Union of the English-Speaking Peoples</em>, Winston S. Churchill, <em>News of the World</em>, 15th May 1938</p>
     </div>
             </main>
+            </I18N>
             <BackArrow href='/blog'/>
             <br/><br/>
+            </NextI18N>
         </>
     )
 }

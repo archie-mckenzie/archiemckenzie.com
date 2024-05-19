@@ -14,7 +14,6 @@ export const metadata = {
 export default function Blog() {
     return (
         <>
-          <NextI18N projectID='a78b0eb9-c0b4-4bde-8fcb-cceee91abd76'>
             <I18N>
             <CustomTitle href={'/blog'}>{title}</CustomTitle>
             <main>
@@ -42,7 +41,6 @@ export default function Blog() {
             </I18N>
             <BackArrow href='/blog'/>
             <br/><br/>
-            </NextI18N>
         </>
     )
 }

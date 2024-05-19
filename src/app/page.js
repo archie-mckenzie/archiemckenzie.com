@@ -6,7 +6,6 @@ export default function ArchieMcKenzie() {
 
   return (
     <>
-      <NextI18N projectID="a78b0eb9-c0b4-4bde-8fcb-cceee91abd76">
       <I18N>
       <Title />
       <main>
@@ -36,7 +35,6 @@ export default function ArchieMcKenzie() {
       </p>
       </main>
       </I18N>
-      </NextI18N>
     </>
   )
 }

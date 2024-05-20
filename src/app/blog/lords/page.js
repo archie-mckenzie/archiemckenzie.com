@@ -3,7 +3,7 @@ import CustomTitle from "@/components/CustomTitle"
 import Link from "next/link"
 
 const title = "How to reform the House of Lords"
-const description = "My proposal as a clear-thinking expatriate"
+const description = "My proposal as an interested expatriate"
 const date = "31st March, 2024"
 
 export const metadata = {

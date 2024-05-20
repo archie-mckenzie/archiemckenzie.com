@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Title from '../components/Title'
-import { I18N, NextI18N } from '@generaltranslation/react'
+import { NextI18N, I18N } from '@generaltranslation/react'
 
 export default function ArchieMcKenzie() {
 
@@ -8,7 +8,7 @@ export default function ArchieMcKenzie() {
     <>
       <Title />
       <main>
-      <NextI18N projectID="a78b0eb9-c0b4-4bde-8fcb-cceee91abd76"><I18N><p>
+      <NextI18N><I18N><p>
         I am the co-founder of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>,  a company which makes AI language infrastructure.
       </p></I18N></NextI18N>
       <p className='link-paragraph'>

@@ -12,7 +12,7 @@ export default function ArchieMcKenzie() {
         I am the co-founder of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, a company which makes AI language infrastructure.
       </p></I18N></NextI18N>
       <p className='link-paragraph'>
-        <Link href="/about">About</Link>
+        <Link href="/about"><I18N>About</I18N></Link>
         <br/>
         <Link href='https://twitter.com/aksmckenzie' target="_blank">Twitter</Link>
         <br/>
@@ -21,7 +21,7 @@ export default function ArchieMcKenzie() {
         <Link href='https://linkedin.com/in/archie-mckenzie' target="_blank">LinkedIn</Link>
       </p>
       <p className='contact-paragraph'>
-        <Link href='/blog'>Blog</Link>
+        <Link href='/blog'><I18N>Blog</I18N></Link>
       </p>
       <p className='contact-paragraph'>
         <a href='mailto:contact@archiemckenzie.com'>Get in touch!</a>

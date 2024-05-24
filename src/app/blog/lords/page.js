@@ -1,6 +1,5 @@
 import BackArrow from "@/components/BackArrow"
 import CustomTitle from "@/components/CustomTitle"
-import Link from "next/link"
 
 const title = "How to reform the House of Lords"
 const description = "My proposal as an interested expatriate"

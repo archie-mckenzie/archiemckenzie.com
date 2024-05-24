@@ -2,7 +2,7 @@ import Link from 'next/link'
 import Title from '../components/Title'
 import { NextI18N as I18N } from '@generaltranslation/react'
 
-export default async function ArchieMcKenzie() {
+export default function ArchieMcKenzie() {
   
   return (
     <>

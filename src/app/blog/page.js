@@ -3,6 +3,7 @@ import BlogItem from "../../components/BlogItem"
 import Title from "../../components/Title"
 
 export default function Blog() {
+
     return (
         <>
             <Title />

@@ -10,7 +10,7 @@ export default function ArchieMcKenzie() {
       <Title />
       <main>
       <Paragraph>
-        I am the co-founder of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, a company which makes AI language infrastructure.
+        I am working on <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, a company which makes AI language infrastructure.
       </Paragraph>
       <p className='link-paragraph'>
         <Link href="/about">About</Link>

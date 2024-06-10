@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@generaltranslation/react": "^1.1.127",
+    "@generaltranslation/react": "^1.1.131",
     "generaltranslation": "^1.2.8",
     "next": "^14.2.3",
     "react": "^18",

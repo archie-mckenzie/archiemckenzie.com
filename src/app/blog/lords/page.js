@@ -109,10 +109,10 @@ export default function Blog() {
     </ul>
   </li>
   <li>
-    <p>In the current system, becoming a life peer automatically entitles you to sit in the House of Lords. I propose to separate the two events — becoming a peer and joining the House of Lords would be two distinct things.</p>
+    <p>In the current system, becoming a life peer automatically entitles you to sit in the House of Lords. Why not separate the two events, making becoming a peer and joining the House of Lords two distinct things?</p>
     <ul>
       <li>
-        <p>When a government wants to appoint someone who is not already a peer to the House of Lords, they must first elevate them to a peerage and then appoint them to the Lords.</p>
+        <p>When a government wants to appoint someone who is not already a peer to the House of Lords, they must first elevate them to a peerage, and then send them to the Lords.</p>
       </li>
       <li>
         <p>In practice this could be done simultaneously.</p>
@@ -123,7 +123,7 @@ export default function Blog() {
     </ul>
   </li>
   <li>
-    <p>Bring back hereditary peerages.</p>
+    <p>These changes would even let the government start giving out <i>new</i> hereditary peerages if it wanted.</p>
     <ul>
       <li>
         <p>Titles cost nothing, but people value them a lot, especially if they can pass them on. We should use that to encourage people to do great things.</p>

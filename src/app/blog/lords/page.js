@@ -33,7 +33,7 @@ export default function Blog() {
     <p>For another, operative political power should not be inheritable.</p>
     <ul>
       <li>
-        <p>The House of Lords still has 92 hereditary peers, appointed by and from a group of about a thousand people who inherit their titles. It’s just not sensible, as a rule, for seats in Parliament to be handed out like that. (I write while in very distant remainder to a Scottish peerage myself.)</p>
+        <p>The House of Lords still has 92 hereditary peers, appointed by and from a group of about a thousand people who inherit their titles. It’s just not sensible, as a rule, for seats in Parliament to be handed out like that. (I write this while in very distant remainder to a Scottish peerage myself.)</p>
       </li>
     </ul>
   </li>

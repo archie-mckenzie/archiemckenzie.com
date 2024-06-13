@@ -2,7 +2,7 @@ import BackArrow from "@/components/BackArrow"
 import CustomTitle from "@/components/CustomTitle"
 
 const title = "How to reform the House of Lords"
-const description = "My proposal as an interested expatriate"
+const description = "Institutional change done right"
 const date = "31st March, 2024"
 
 export const metadata = {

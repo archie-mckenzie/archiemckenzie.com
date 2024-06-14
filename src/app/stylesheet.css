@@ -99,8 +99,9 @@ hr {
   color: var(--font-color);
 }
 
-.link-paragraph {
-  width: 175px;
-  line-height: 2;
-  columns: 2;
+.link-grid {
+  display: grid;
+  grid-template-columns: min-content min-content;
+  grid-template-rows: repeat(2, auto);
+  gap: 0px 25px;
 }

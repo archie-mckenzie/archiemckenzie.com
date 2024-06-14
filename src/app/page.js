@@ -12,13 +12,10 @@ export default function ArchieMcKenzie() {
       <p>
         I am working on <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, a company which makes AI language infrastructure.
       </p>
-      <p className='link-paragraph'>
+      <p className='link-grid'>
         <Link href="/about">About</Link>
-        <br/>
-        <Link href='https://twitter.com/aksmckenzie' target="_blank">Twitter</Link>
-        <br/>
         <Link href='https://github.com/archie-mckenzie' target="_blank">GitHub</Link>
-        <br/>
+        <Link href='https://twitter.com/aksmckenzie' target="_blank">Twitter</Link>
         <Link href='https://linkedin.com/in/archie-mckenzie' target="_blank">LinkedIn</Link>
       </p>
       <p className='contact-paragraph'>

@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@generaltranslation/react": "^1.1.181",
-    "generaltranslation": "^1.2.8",
+    "generaltranslation": "^1.3.3",
     "next": "^14.2.3",
     "react": "^18",
     "react-dom": "^18"

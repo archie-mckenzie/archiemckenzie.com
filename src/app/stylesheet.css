@@ -101,6 +101,7 @@ hr {
 
 .link-grid {
   display: grid;
+  white-space: nowrap;
   grid-template-columns: min-content min-content;
   grid-template-rows: repeat(2, auto);
   gap: 0px 25px;

@@ -1,8 +1,10 @@
 /** @type {import('next').NextConfig} */
-module.exports = {
-    experimental: {
+const nextConfig = {
+  experimental: {
       outputFileTracingIncludes: {
         '*': ['./gt_config.json'],
       },
-    },
-}
+  },
+};
+
+export default nextConfig;

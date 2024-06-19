@@ -2,6 +2,7 @@ import Link from 'next/link'
 import Title from '../components/Title'
 
 import { I18N } from '@generaltranslation/react/next'
+import { Exclude } from '@generaltranslation/react'
 
 export default function ArchieMcKenzie() {
   
@@ -9,9 +10,7 @@ export default function ArchieMcKenzie() {
     <I18N>
       <Title />
       <main>
-      <p>
-        I am working on <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, a company which makes AI language infrastructure.
-      </p>
+      <p>I am working on <Link href='https://generaltranslation.com' target="_blank"><Exclude>General Translation</Exclude></Link>, a company which makes AI language infrastructure.</p>
       <p className='link-grid'>
         <Link href="/about">About</Link>
         <Link href='https://github.com/archie-mckenzie' target="_blank">GitHub</Link>

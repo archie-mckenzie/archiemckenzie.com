@@ -10,7 +10,7 @@ export default function ArchieMcKenzie() {
     <I18N>
       <Title />
       <main>
-      <p>I am working on <Link href='https://generaltranslation.com' target="_blank"><Exclude>General Translation</Exclude></Link>, a company which makes AI language infrastructure.</p>
+      <p>I am the CEO of <Link href='https://generaltranslation.com' target="_blank"><Exclude>General Translation</Exclude></Link>, a company which makes AI language infrastructure.</p>
       <p className='link-grid'>
         <Link href="/about">About</Link>
         <Link href='https://github.com/archie-mckenzie' target="_blank">GitHub</Link>

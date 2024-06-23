@@ -19,6 +19,7 @@ export default function ArchieMcKenzie() {
       </p>
       <p className='contact-paragraph'>
         <Link href='/blog'>Blog</Link>
+        <Exclude label='123'></Exclude>
       </p>
       <p className='contact-paragraph'>
         <a href='mailto:contact@archiemckenzie.com'>Get in touch!</a>

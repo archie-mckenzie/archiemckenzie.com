@@ -5,8 +5,7 @@ export const metadata = {
   title: 'Archie McKenzie'
 }
 
-export default function RootLayout({ children }) {
-
+export default function RootLayout({ children, params }) {
   const sfEmoji = getSFEmoji();
   return (
     <html>

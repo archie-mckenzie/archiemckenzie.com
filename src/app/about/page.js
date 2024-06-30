@@ -19,7 +19,7 @@ export default function About() {
       <main>
       <ul>
         <li>Grew up in <Link href='https://en.wikipedia.org/wiki/Bath,_Somerset' target="_blank">Bath</Link>, England, as well as New Zealand and Kenya.</li>
-        <li><Link href='documents/balliol.pdf' target="_blank">Turned down</Link> Classics at Oxford for <span className="link-like" onClick={handleClick}>Computer Science</span> at Princeton.</li>
+        <li>Studied <span className="link-like" onClick={handleClick}>Computer Science</span> at Princeton.</li>
         { 
           showFullDegree &&
           <li>A.B. <Link href='/documents/degree.pdf' target="_blank">Computer Science</Link>, with certificates in <Link href='/documents/cert_clg.pdf' target="_blank">Classical Greek</Link>, <Link href='/documents/cert_hpd.pdf' target="_blank">History and the Practice of Diplomacy</Link>.</li>

@@ -16,7 +16,7 @@ export default function Blog() {
                 />
                 <BlogItem 
                     title='How to reform the House of Lords'
-                    description='Institutional change done right'
+                    description='An idea for institutional change'
                     href='/blog/lords'
                     date='31st March, 2024'
                 />

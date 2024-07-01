@@ -2,7 +2,7 @@ import BackArrow from "@/components/BackArrow"
 import CustomTitle from "@/components/CustomTitle"
 
 const title = "How to reform the House of Lords"
-const description = "Institutional change done right"
+const description = "An idea for institutional change"
 const date = "31st March, 2024"
 
 export const metadata = {
@@ -129,16 +129,7 @@ export default function Blog() {
         <p>Titles cost nothing, but people value them a lot, especially if they can pass them on. We should use that to encourage people to do great things.</p>
       </li>
       <li>
-        <p>The UK should make people Viscount <em>so-and-so</em> like the USA gives out Presidential Medals of Freedom.</p>
-      </li>
-      <li>
-        <p>Creating new hereditary peers requires no change in the law. (Harold Macmillan was created the Earl of Stockton in the 1980s.) But it is hard to defend while hereditary peers still have 92 guaranteed seats in the House of Lords.</p>
-      </li>
-      <li>
-        <p>Grant new peerages at all levels, not only barons and baronesses. Include the titles of Viscount, Viscountess, Earl, Countess, Marquess, Marchioness, even Duke and Duchess.</p>
-      </li>
-      <li>
-        <p>Issue these newly created hereditary peerages to heirs general, rather than heirs male. That is, let title-holders’ children inherit their titles regardless of gender. Some Scottish peerages have done this for centuries.</p>
+        <p>The UK could make people Viscount <em>so-and-so</em> like the USA gives out Presidential Medals of Freedom.</p>
       </li>
     </ul>
   </li>

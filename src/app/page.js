@@ -11,7 +11,6 @@ export default function ArchieMcKenzie() {
       <Title />
       <main>
       <p>I am the CEO of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, a company which makes AI language infrastructure.</p>
-      <p><Number n={n} plural={<>You have {{n}} new messages!</>}>You have {{n}} new message.</Number></p>
       <p className='link-grid'>
         <Link href="/about">About</Link>
         <Link href='https://github.com/archie-mckenzie' target="_blank">GitHub</Link>

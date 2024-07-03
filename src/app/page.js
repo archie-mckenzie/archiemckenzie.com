@@ -5,12 +5,13 @@ import { I18N } from '@generaltranslation/react/next'
 import { Exclude, Number } from '@generaltranslation/react'
 
 export default function ArchieMcKenzie() {
-  const n = 2;
+  const n = 0;
   return (
     <I18N>
       <Title />
       <main>
       <p>I am the CEO of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, a company which makes AI language infrastructure.</p>
+      {/*<p><Number n={n} singular={<>You have {{n}} new message.</>}>You have {{n}} new messages!</Number></p>*/}
       <p className='link-grid'>
         <Link href="/about">About</Link>
         <Link href='https://github.com/archie-mckenzie' target="_blank">GitHub</Link>

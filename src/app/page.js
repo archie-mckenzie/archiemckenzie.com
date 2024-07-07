@@ -2,7 +2,7 @@ import Link from 'next/link'
 import Title from '../components/Title'
 
 import { I18N } from '@generaltranslation/react/next'
-import { Exclude, Number } from '@generaltranslation/react'
+import { Exclude, Number, Variable } from '@generaltranslation/react'
 
 export default function ArchieMcKenzie() {
   return (

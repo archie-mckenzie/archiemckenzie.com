@@ -1,3 +1,4 @@
 {
-    "description": "This is a personal website for Archie McKenzie."
+    "description": "This is a personal website for Archie McKenzie.",
+    "baseURL": "http://localhost:10000"
 }

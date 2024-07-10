@@ -2,9 +2,12 @@ import Link from 'next/link'
 import Title from '../components/Title'
 
 import { I18N } from '@generaltranslation/react/next'
-import { Exclude, Number, Variable } from '@generaltranslation/react'
+import { Exclude } from '@generaltranslation/react'
 
 export default function ArchieMcKenzie() {
+  const name = "Sam"
+  const gender = "male"
+  const n = 1;
   return (
     <I18N>
       <Title />

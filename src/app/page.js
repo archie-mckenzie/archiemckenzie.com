@@ -4,10 +4,7 @@ import Title from '../components/Title'
 import { I18N } from '@generaltranslation/react/next'
 import { Private } from '@generaltranslation/react'
 
-export default function ArchieMcKenzie() {
-  const name = "Sam"
-  const gender = "male"
-  const n = 1;
+export default async function ArchieMcKenzie() {
   return (
     <I18N>
       <Title />

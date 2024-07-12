@@ -6,12 +6,12 @@ import { Private } from '@generaltranslation/react'
 
 export default async function ArchieMcKenzie() {
   return (
-    <I18N>
+    <I18N id='homepage'>
       <Title />
       <main>
       <p>I am the CEO of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, a company which makes AI language infrastructure.</p>
       <p className='link-grid'>
-        <Link href="/about">About</Link>
+        <Link href="/about">About me</Link>
         <Link href='https://github.com/archie-mckenzie' target="_blank">GitHub</Link>
         <Link href='https://twitter.com/aksmckenzie' target="_blank">Twitter</Link>
         <Link href='https://linkedin.com/in/archie-mckenzie' target="_blank">LinkedIn</Link>

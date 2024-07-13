@@ -1,13 +1,14 @@
 import Link from 'next/link'
 import Title from '../components/Title'
 
-import { I18N } from '@generaltranslation/react/next'
-import { Private } from '@generaltranslation/react'
+import { I18N, Private, GTProvider } from '@generaltranslation/react/next'
 
 export default async function ArchieMcKenzie() {
   return (
     <I18N id='homepage'>
-      <Title />
+      <GTProvider dictionary={{"greeting": <b>Hello, world!</b>}}>
+        <Title />
+      </GTProvider>
       <main>
       <p>I am the CEO of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, a company which makes AI language infrastructure.</p>
       <p className='link-grid'>

@@ -1,6 +1,6 @@
 # archiemckenzie.com
 
-My personal website, archiemckenzie.com. If you're wondering why I push to it so much, it's because I'm using it as a testing ground for [@generaltranslation/react](https://github.com/General-Translation/react-toolkit).
+My personal website, archiemckenzie.com. If you're wondering why I push to it so much, it's because I'm using it as a testing ground for [gt-react](https://github.com/General-Translation/gt-react), my internationalization library.
 
 This is a [Next.js](https://nextjs.org/) project.
 

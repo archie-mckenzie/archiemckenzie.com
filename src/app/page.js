@@ -1,12 +1,14 @@
 import Link from 'next/link'
 import Title from '../components/Title'
 
-import { I18N, Private, GTProvider } from '@generaltranslation/react/next'
+import { I18N, Private, Variable, Value, Numeric, GTProvider } from '@generaltranslation/react/next'
 
-export default async function ArchieMcKenzie() {
+export default function ArchieMcKenzie() {
   return (
     <I18N id='homepage'>
-      <GTProvider dictionary={{"greeting": <b>Hello, world!</b>}}>
+      <GTProvider dictionary={{
+        "helloworld": <b>Hello, world!</b>
+      }}>
         <Title />
       </GTProvider>
       <main>

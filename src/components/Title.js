@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 
-import { t } from "@generaltranslation/react/client"
+import { t,  Numeric } from "@generaltranslation/react/client"
 
 export default function Title() {
     return (

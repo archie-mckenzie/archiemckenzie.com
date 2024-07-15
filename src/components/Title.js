@@ -2,9 +2,10 @@
 
 import Link from "next/link"
 
-import { t,  Numeric } from "gt-react/client"
+import { useGT,  Numeric } from "gt-react/client"
 
 export default function Title() {
+    const t = useGT();
     return (
         <header>
             <div className='large-screen-break' />

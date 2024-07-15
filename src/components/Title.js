@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 
-import { useGT,  Numeric } from "gt-react/client"
+import { useGT } from "gt-react/client"
 
 export default function Title() {
     const t = useGT();

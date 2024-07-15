@@ -1,10 +1,6 @@
 import './stylesheet.css'
 import getSFEmoji from '../js/sf'
 
-export const metadata = {
-  title: 'Archie McKenzie'
-}
-
 export default function RootLayout({ children, params }) {
   const sfEmoji = getSFEmoji();
   return (

@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Title from '../components/Title'
 
-import { I18N, Private, Variable, Value, Numeric, GTProvider } from 'gt-react/next'
+import { I18N, Private, Variable, Branch, Numeric, GTProvider } from 'gt-react/next'
 
 export default function ArchieMcKenzie() {
   return (

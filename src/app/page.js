@@ -6,12 +6,9 @@ import { I18N, Private, Variable, Value, Numeric, GTProvider } from 'gt-react/ne
 export default function ArchieMcKenzie() {
   return (
     <I18N id='homepage'>
-      <GTProvider dictionary={{
-        "helloworld": <b>Hello, world!</b>
-      }}>
-        <Title />
-      </GTProvider>
+      <Title/>
       <main>
+      <p><b>Hello, world</b></p>
       <p>I am the CEO of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, a company which makes AI language infrastructure.</p>
       <p className='link-grid'>
         <Link href="/about">About me</Link>

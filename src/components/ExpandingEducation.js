@@ -13,9 +13,9 @@ export default function ExpandingEducation() {
     useEffect(() => {
         const element = document.getElementById('cs');
         if (element) {
-          element.onclick = () => {
-            setShowFullDegree(prev => !prev)
-          };
+            element.onclick = () => {
+                setShowFullDegree(prev => !prev);
+            };
         }
     }, []);
 

@@ -15,12 +15,6 @@ export default function Blog() {
                     date='20th May, 2024'
                 />
                 <BlogItem 
-                    title='How to reform the House of Lords'
-                    description='An idea for institutional change'
-                    href='/blog/lords'
-                    date='31st March, 2024'
-                />
-                <BlogItem 
                     title='Churchill on American Ambition'
                     description='"Business to the American is more than the means of earning a living"'
                     href='/blog/churchill'

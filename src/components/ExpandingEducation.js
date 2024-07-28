@@ -2,11 +2,12 @@
 
 import Link from "next/link";
 import { useState, useEffect } from "react"
-import { useGT } from "gt-react/client"
+
+import { useGT } from 'gt-react/client'
 
 export default function ExpandingEducation() {
 
-    const t = useGT()
+    const t = useGT();
 
     const [showFullDegree, setShowFullDegree] = useState(false)
 

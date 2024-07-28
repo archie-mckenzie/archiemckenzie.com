@@ -2,7 +2,8 @@ import Link from 'next/link'
 import Title from '../../components/Title';
 import BackArrow from '@/components/BackArrow';
 import ExpandingEducation from '@/components/ExpandingEducation';
-import { I18N, Private, GTProvider } from 'gt-react/next';
+
+import { I18N, GTProvider, Variable } from '@/i18n';
 
 export default async function About() {
 
@@ -13,7 +14,7 @@ export default async function About() {
       <ul>
         <li>Grew up in <Link href='https://en.wikipedia.org/wiki/Bath,_Somerset' target="_blank">Bath</Link>, England, as well as New Zealand and Kenya.</li>
         <GTProvider dictionary={{
-          "education.expanded": <li><Private label="B.A.">A.B. </Private><Link href='/documents/degree.pdf' target="_blank">Computer Science</Link>, with certificates in <Link href='/documents/cert_clg.pdf' target="_blank">Classical Greek</Link>, <Link href='/documents/cert_hpd.pdf' target="_blank">History and the Practice of Diplomacy</Link>.</li>,
+          "education.expanded": <li><Variable label="B.A.">A.B. </Variable><Link href='/documents/degree.pdf' target="_blank">Computer Science</Link>, with certificates in <Link href='/documents/cert_clg.pdf' target="_blank">Classical Greek</Link>, <Link href='/documents/cert_hpd.pdf' target="_blank">History and the Practice of Diplomacy</Link>.</li>,
           "education": <li>Studied <span id='cs' className="link-like">Computer Science</span> at Princeton.</li>
         }}>
           <ExpandingEducation/>

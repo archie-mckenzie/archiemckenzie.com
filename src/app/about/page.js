@@ -21,7 +21,7 @@ export default async function About() {
         </GTProvider>
         <li><Link href='https://wikipedia.org/wiki/Brian_Kernighan' target='_blank'>Brian Kernighan</Link>'s TA from 2021-24.</li>
         <li>Worked for <Link href='https://humanprogress.org' target="_blank">Human Progress</Link> and <Link href="https://pessimistsarchive.org/" target="_blank">Pessimists Archive</Link>.</li>
-        <li>CEO of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>.</li>
+        <li>CEO of <Link href='https://generaltranslation.com' target="_blank">General Translation, Inc.</Link>.</li>
       </ul>
       <BackArrow />
       </main>

@@ -9,7 +9,7 @@ export default function ArchieMcKenzie() {
       <Title/>
       <main>
       <p><b>Hello, world</b></p>
-      <p>I am the CEO of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, a company which makes AI language infrastructure.</p>
+      <p>I am the founder of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, a company which builds AI language infrastructure.</p>
       <p className='link-grid'>
         <Link href="/about">About me</Link>
         <Link href='https://github.com/archie-mckenzie' target="_blank">GitHub</Link>

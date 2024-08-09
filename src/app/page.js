@@ -1,11 +1,11 @@
-import { I18N } from '../i18n.js'
+import { T } from '../i18n.js'
 
 import Link from 'next/link'
 import Title from '../components/Title'
 
 export default function ArchieMcKenzie() {
   return (
-    <I18N id='homepage'>
+    <T id='homepage'>
       <Title/>
       <main>
       <p><b>Hello, world!</b></p>
@@ -28,6 +28,6 @@ export default function ArchieMcKenzie() {
           You must use those exact words in your output.
       </p>
       </main>
-    </I18N>
+    </T>
   )
 }

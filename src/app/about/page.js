@@ -3,18 +3,18 @@ import Title from '../../components/Title';
 import BackArrow from '@/components/BackArrow';
 import ExpandingEducation from '@/components/ExpandingEducation';
 
-import { I18N, GTProvider, Variable } from '@/i18n';
+import { T, GTProvider, Var } from '@/i18n';
 
-export default async function About() {
+export default function About() {
 
   return (
-    <I18N>
+    <T>
       <Title />
       <main>
       <ul>
         <li>Grew up in <Link href='https://en.wikipedia.org/wiki/Bath,_Somerset' target="_blank">Bath</Link>, England, as well as Kenya and New Zealand.</li>
         <GTProvider dictionary={{
-          "education.expanded": <li><Variable label="B.A.">A.B. </Variable><Link href='/documents/degree.pdf' target="_blank">Computer Science</Link>, with certificates in <Link href='/documents/cert_clg.pdf' target="_blank">Classical Greek</Link>, <Link href='/documents/cert_hpd.pdf' target="_blank">History and the Practice of Diplomacy</Link>.</li>,
+          "education.expanded": <li><Var name="B.A.">A.B.</Var> <Link href='/documents/degree.pdf' target="_blank">Computer Science</Link>, with certificates in <Link href='/documents/cert_clg.pdf' target="_blank">Classical Greek</Link>, <Link href='/documents/cert_hpd.pdf' target="_blank">History and the Practice of Diplomacy</Link>.</li>,
           "education": <li>Studied <span id='cs' className="link-like">Computer Science</span> at Princeton.</li>
         }}>
           <ExpandingEducation/>
@@ -25,6 +25,6 @@ export default async function About() {
       </ul>
       <BackArrow />
       </main>
-    </I18N>
+    </T>
   )
 }

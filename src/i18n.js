@@ -1,5 +1,5 @@
 import { createGT } from 'gt-react/next'
-export const { I18N, GTProvider, Variable } = createGT({
+export const { T, GTProvider, Var } = createGT({
     defaultLocale: 'en',
     dictionaryName: "archiemckenzie.com"
 });

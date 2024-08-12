@@ -1,6 +1,6 @@
 import { createGT } from 'gt-react/next'
 export const { T, GTProvider, Var } = createGT({
     defaultLocale: 'en',
-    renderTimeout: 6500,
+    renderTimeout: 8500,
     dictionaryName: "archiemckenzie.com"
 });

@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useState, useEffect } from "react"
 
-import { useGT } from 'gt-react'
+import { useGT } from 'gt-react/client'
 
 export default function ExpandingEducation() {
 

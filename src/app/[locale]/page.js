@@ -1,7 +1,7 @@
-import { T } from '../i18n.js'
+import { T } from '../../i18n.js'
 
 import Link from 'next/link'
-import Title from '../components/Title'
+import Title from '../../components/Title.js'
 
 export default function ArchieMcKenzie() {
   return (

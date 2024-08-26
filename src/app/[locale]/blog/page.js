@@ -1,6 +1,6 @@
 import BackArrow from "@/components/BackArrow"
-import BlogItem from "../../components/BlogItem"
-import Title from "../../components/Title"
+import BlogItem from "../../../components/BlogItem"
+import Title from "../../../components/Title"
 
 export default function Blog() {
 

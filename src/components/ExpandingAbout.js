@@ -5,7 +5,7 @@ import { useState, useEffect } from "react"
 
 import { useGT } from 'gt-react/client'
 
-export default function ExpandingEducation() {
+export default function ExpandingAbout() {
 
     const t = useGT();
 
@@ -22,11 +22,7 @@ export default function ExpandingEducation() {
 
     return (
         <>
-            {t('education')}
-            { 
-                showFullDegree &&
-                t('education.expanded')
-            }
+            {t('about', { expanding_item: showFullDegree ? t('expanding_education') : undefined })}
         </>
     )
 }

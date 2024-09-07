@@ -1,7 +1,7 @@
 import { createNextMiddleware } from 'gt-react/middleware'
  
-export default createNextMiddleware();
- 
+export default createNextMiddleware({approvedLocales: ['en', 'de']})
+
 export const config = {
   matcher: [
       /*

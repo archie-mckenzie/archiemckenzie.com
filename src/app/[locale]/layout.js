@@ -5,9 +5,12 @@ import './stylesheet.css'
 import getSFEmoji from '@/js/sf';
 import { GTClientProvider } from 'gt-react/client';
 import { getLanguageDirection } from 'generaltranslation';
+import { approvedLocales } from '@/middleware';
 
 export async function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'de' }]
+  return approvedLocales.map(locale => ({
+    locale
+  }));
 }
 
 export default function Layout({ children, params }) {

@@ -1,6 +1,7 @@
 import BackArrow from "@/components/BackArrow"
 import BlogItem from "../../../components/BlogItem"
 import Title from "../../../components/Title"
+export const dynamicParams = true;
 
 export default function Blog() {
 

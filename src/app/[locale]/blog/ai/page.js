@@ -1,6 +1,5 @@
 import BackArrow from "@/components/BackArrow"
 import CustomTitle from "@/components/CustomTitle"
-import Link from "next/link"
 
 const title = "AI won't end work"
 const description = "The point of work is to solve problems, and we have no end of problems to solve"

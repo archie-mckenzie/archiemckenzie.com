@@ -1,8 +1,7 @@
-'use client'
-
+import { createVariables } from "gt-react/next"
 import Link from "next/link"
 
-import { Var } from "gt-react/client"
+const { Var } = createVariables();
 
 export default {
     "landing": (

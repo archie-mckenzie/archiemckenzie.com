@@ -1,7 +1,6 @@
 import BackArrow from "@/components/BackArrow"
 import BlogItem from "../../../components/BlogItem"
 import Title from "../../../components/Title"
-export const dynamicParams = true;
 
 export default function Blog() {
 
@@ -44,18 +43,6 @@ export default function Blog() {
                     description='Pessimists Archive'
                     href='https://newsletter.pessimistsarchive.org/p/is-ai-fear-this-centurys-overpopulation'
                     date='31st March, 2023'
-                />
-                <BlogItem 
-                    title='The Asian Tigers Are a Model for the Global South'
-                    description='HumanProgress.org'
-                    href='https://humanprogress.org/the-asian-tigers-are-a-model-for-the-global-south/'
-                    date='6th July, 2021'
-                />
-                <BlogItem 
-                    title='Uganda faces a fraught election'
-                    description='The Spectator'
-                    href='https://www.spectator.co.uk/article/uganda-faces-a-fraught-election/'
-                    date='9th January 2021'
                 />
             </main>
             <br/>

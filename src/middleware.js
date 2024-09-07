@@ -1,6 +1,8 @@
 import { createNextMiddleware } from 'gt-react/middleware'
+
+export const approvedLocales = ['en', 'de', 'fr', 'es', 'it', 'pt', 'zh', 'ja', 'ko', 'ru', 'da']
  
-export default createNextMiddleware({approvedLocales: ['en', 'de']})
+export default createNextMiddleware({approvedLocales})
 
 export const config = {
   matcher: [

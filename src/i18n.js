@@ -6,5 +6,5 @@ export const approvedLocales = ['en', 'de', 'fr', 'es', 'it', 'pt', 'zh', 'ja', 
 export const { GTProvider } = createGT({
     approvedLocales: ['en', 'de', 'fr', 'es', 'it', 'pt', 'zh', 'ja', 'ko', 'ru', 'da', 'el'],
     dictionaryName: 'archiemckenzie.com',
-    dictionary
+    dictionary: dictionary
 })

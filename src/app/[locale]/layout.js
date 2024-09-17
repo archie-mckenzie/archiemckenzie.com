@@ -1,16 +1,9 @@
 
 
-import dictionary from '@/dictionary';
 import './stylesheet.css'
 import getSFEmoji from '@/js/sf';
 import { getLanguageDirection } from 'generaltranslation';
 import { GTProvider } from 'gt-next';
-
-export async function generateStaticParams() {
-  return ['en', 'de', 'fr', 'es', 'it', 'pt', 'zh', 'ja', 'ko', 'ru', 'da', 'el'].map(locale => ({
-    locale
-  }));
-}
 
 export default function Layout({ children, params }) {
   const sfEmoji = getSFEmoji();

@@ -4,10 +4,10 @@ import dictionary from '@/dictionary';
 import './stylesheet.css'
 import getSFEmoji from '@/js/sf';
 import { getLanguageDirection } from 'generaltranslation';
-import { approvedLocales, GTProvider } from '@/i18n';
+import { GTProvider } from 'gt-next';
 
 export async function generateStaticParams() {
-  return approvedLocales.map(locale => ({
+  return ['en', 'de', 'fr', 'es', 'it', 'pt', 'zh', 'ja', 'ko', 'ru', 'da', 'el'].map(locale => ({
     locale
   }));
 }

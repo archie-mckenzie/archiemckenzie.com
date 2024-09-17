@@ -3,10 +3,10 @@
 import Link from 'next/link'
 import Title from '../../components/Title.js'
 
-import { useGT } from 'gt-react/client'
+import { getGT } from 'gt-next';
 
 export default function ArchieMcKenzie() {
-  const t = useGT();
+  const t = getGT();
   return (
     <>
       <Title/>

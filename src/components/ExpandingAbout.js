@@ -3,11 +3,11 @@
 import Link from "next/link";
 import { useState, useEffect } from "react"
 
-import { useGT } from 'gt-react/client'
+import { getGT } from "gt-next";
 
 export default function ExpandingAbout() {
 
-    const t = useGT();
+    const t = getGT();
 
     const [showFullDegree, setShowFullDegree] = useState(false)
 

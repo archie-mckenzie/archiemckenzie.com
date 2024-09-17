@@ -1,7 +1,5 @@
-import { createVariables } from "gt-react/next"
+import { Var } from "gt-next"
 import Link from "next/link"
-
-const { Var } = createVariables();
 
 export default {
     "landing": (

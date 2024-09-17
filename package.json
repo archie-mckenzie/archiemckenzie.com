@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "generaltranslation": "^2.0.63",
-    "gt-react": "^3.1.94",
+    "gt-next": "^0.0.22",
     "next": "^14.2.5",
     "react": "^18",
     "react-dom": "^18"

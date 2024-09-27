@@ -4,7 +4,8 @@ import { initGT } from 'gt-next/config'
 const nextConfig = {
     experimental: {
         esmExternals: 'loose'
-    }
+    },
+    reactStrictMode: true
 };
 
 const withGT = initGT({

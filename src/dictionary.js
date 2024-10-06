@@ -5,7 +5,7 @@ export default {
     "landing": (
         <>
         <p><b>Hello, world!</b></p>
-      <p>I'm currently working on <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, an AI internationalization platform for developers.</p>
+      <p>I'm currently working on <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, an AI localization platform.</p>
       <p className='link-grid'>
         <Link href="/about">About me</Link>
         <Link href='https://github.com/archie-mckenzie' target="_blank">GitHub</Link>

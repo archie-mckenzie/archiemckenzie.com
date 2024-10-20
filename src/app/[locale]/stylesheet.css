@@ -44,7 +44,7 @@
 }
 
 body {
-  font-family: monospace;
+  font-family: Palatino, serif;
   line-height: 1.5;
   padding: 0 10px;
   margin-left: calc(5vw - 10px);

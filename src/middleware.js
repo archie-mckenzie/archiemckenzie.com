@@ -1,7 +1,7 @@
 import { createNextMiddleware } from 'gt-next/middleware'
 
 export default createNextMiddleware({
-  approvedLocales: ['en', 'de', 'fr', 'es', 'it', 'pt', 'zh', 'ja', 'ko', 'ru', 'da', 'el']
+  locales: ['en', 'de', 'fr', 'es', 'it', 'pt', 'zh', 'ja', 'ko', 'ru', 'da', 'el']
 })
 
 export const config = {

@@ -10,8 +10,7 @@ const nextConfig = {
 
 const withGT = initGT({
     defaultLocale: 'en',
-    locales: ['en', 'de', 'fr', 'es', 'it', 'pt', 'zh', 'ja', 'ko', 'ru', 'da', 'el'],
-    dictionaryName: 'archiemckenzie.com'
+    locales: ['en', 'de', 'fr', 'es', 'it', 'pt', 'zh', 'ja', 'ko', 'ru', 'da', 'el']
 });
 
 export default withGT(nextConfig);

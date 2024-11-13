@@ -13,9 +13,6 @@ export default {
         <Link href='https://linkedin.com/in/archie-mckenzie' target="_blank">LinkedIn</Link>
       </p>
       <p className='contact-paragraph'>
-        <Link href='/blog'>Blog</Link>
-      </p>
-      <p className='contact-paragraph'>
         <a href='mailto:contact@archiemckenzie.com'>Get in touch!</a>
       </p>
       </>

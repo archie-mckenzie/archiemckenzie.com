@@ -54,7 +54,8 @@ body {
 }
 
 main {
-  max-width: 650px;
+  max-width: 700px;
+  text-wrap: 'pretty';
   line-height: 2;
 }
 

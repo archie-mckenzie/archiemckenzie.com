@@ -3,11 +3,11 @@
 import Link from "next/link";
 import { useState, useEffect } from "react"
 
-import { getGT } from "gt-next";
+import { useElement } from "gt-next";
 
 export default function ExpandingAbout() {
 
-    const t = getGT();
+    const t = useElement();
 
     const [showFullDegree, setShowFullDegree] = useState(false)
 
@@ -25,7 +25,6 @@ export default function ExpandingAbout() {
             {t('about.background')}
             {t('about.education', { expanding_item: showFullDegree ? t('expanding_education') : undefined })}
             {t('about.ta')}
-            {t('about.work')}
             {t('about.founder')}
         </ul>
     )

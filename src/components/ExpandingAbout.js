@@ -23,7 +23,8 @@ export default function ExpandingAbout() {
     return (
         <ul>
             {t('about.background')}
-            {t('about.education', { expanding_item: showFullDegree ? t('expanding_education') : undefined })}
+            {t('about.education')}
+            {showFullDegree ? t('expanding_education') : undefined}
             {t('about.ta')}
             {t('about.founder')}
         </ul>

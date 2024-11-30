@@ -40,6 +40,7 @@
 
 .link-like {
   text-decoration: underline;
+  color: var(--link-color);
   cursor: pointer;
 }
 

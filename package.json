@@ -15,8 +15,5 @@
     "next": "^14.2.14",
     "react": "^18",
     "react-dom": "^18"
-  },
-  "devDependencies": {
-    "gt-update": "^2.1.0"
   }
 }

@@ -23,7 +23,6 @@ export default function ArchieMcKenzie() {
               <li>Studied <span onClick={() => {setShowFullDegree(prev => !prev)}} className="link-like">Computer Science</span> at Princeton.</li>
               <Var>{ showFullDegree && <ExpandedEducation/> }</Var>
               <li><Link href='https://wikipedia.org/wiki/Brian_Kernighan' target='_blank'>Brian Kernighan</Link>'s TA from 2021-24.</li>
-              <li>Worked for <Link href='https://humanprogress.org' target="_blank">Human Progress</Link>, <Link href="https://pessimistsarchive.org/" target="_blank">Pessimists Archive</Link>, and <Link href='https://en.wikipedia.org/wiki/New_York_City_Office_of_Technology_and_Innovation' target="_blank">New York City</Link>.</li>
               <li>Founder of <Link href='https://generaltranslation.com' target="_blank">General Translation, Inc.</Link>, which helps developers make their software multilingual.</li>
             </ul>
           </div>

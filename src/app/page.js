@@ -23,7 +23,7 @@ export default function ArchieMcKenzie() {
               <li>Studied <span onClick={() => {setShowFullDegree(prev => !prev)}} className="link-like">Computer Science</span> at Princeton.</li>
               <Var>{ showFullDegree && <ExpandedEducation/> }</Var>
               <li><Link href='https://wikipedia.org/wiki/Brian_Kernighan' target='_blank'>Brian Kernighan</Link>'s TA from 2021-24.</li>
-              <li>Founder of <Link href='https://generaltranslation.com' target="_blank">General Translation, Inc.</Link>, which helps developers make their software multilingual.</li>
+              <li>Founder of <Link href='https://generaltranslation.com' target="_blank">General Translation, Inc.</Link>, which helps developers ship multilingual software.</li>
             </ul>
           </div>
           <p className='link-grid'>

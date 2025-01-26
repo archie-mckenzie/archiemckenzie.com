@@ -5,7 +5,6 @@ import Title from '../components/Title.js'
 
 import { T, Var } from 'gt-next';
 import { useState } from 'react';
-import ExpandedEducation from '@/components/ExpandedEducation.js';
 
 export default function ArchieMcKenzie() {
 

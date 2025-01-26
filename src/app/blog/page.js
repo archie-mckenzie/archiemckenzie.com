@@ -17,7 +17,7 @@ export default function Blog() {
                 <BlogItem 
                     title='Churchill on American Ambition'
                     description='"Business to the American is more than the means of earning a living"'
-                    href='/blog/churchill'
+                    href='https://archiemckenzie.substack.com/p/churchill-on-american-ambition'
                     date='25th February, 2024'
                 />
                 <BlogItem 
@@ -29,7 +29,7 @@ export default function Blog() {
                 <BlogItem 
                     title="AI won't end work"
                     description='The point of work is to solve problems, and we have no end of problems to solve'
-                    href='/blog/ai'
+                    href='https://archiemckenzie.substack.com/p/ai-wont-end-work'
                     date='22nd July, 2023'
                 />
                 <BlogItem 

@@ -5,6 +5,6 @@ const nextConfig = {
     reactStrictMode: true
 };
 
-const withGT = initGT();
+const withGT = initGT({});
 
 export default withGT(nextConfig);

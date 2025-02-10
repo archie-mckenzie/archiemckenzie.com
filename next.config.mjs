@@ -5,8 +5,6 @@ const nextConfig = {
     reactStrictMode: true
 };
 
-const withGT = initGT({
-    defaultLocale: 'en'
-});
+const withGT = initGT();
 
 export default withGT(nextConfig);

@@ -1,4 +1,22 @@
 {
+  "locales": [
+    "en-US",
+    "es",
+    "fr",
+    "de",
+    "pt",
+    "el",
+    "it",
+    "nl",
+    "ru",
+    "zh",
+    "ja",
+    "ko",
+    "he",
+    "ar",
+    "no",
+    "sw"
+  ],
   "projectId": "0f4b0f25-d7ae-4585-8ea6-63b457a6c0f5",
   "_versionId": "879b208bed657415d9665ecb92bb50ec6fed1dd8372e6606031d4fdfe9dc7a53"
 }

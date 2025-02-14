@@ -6,9 +6,12 @@ import Title from '../components/Title.js'
 import { Branch, T, Var } from 'gt-next';
 import { useState } from 'react';
 
+import { useLocale } from 'gt-next/client'
+
 export default function ArchieMcKenzie() {
 
   const [showFullDegree, setShowFullDegree] = useState(false)
+  console.log(useLocale())
 
   return (
     <>

@@ -5,4 +5,4 @@ const nextConfig = {
     reactStrictMode: true
 };
 
-export default withGTConfig(nextConfig, {});
+export default withGTConfig(nextConfig);

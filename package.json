@@ -5,14 +5,14 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npx gt-next-cli translate; next build",
+    "build": "npx gtx-cli translate; next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
     "generaltranslation": "^6.2.0",
-    "gt-next": "^5.2.0",
-    "gt-next-cli": "^2.1.3",
+    "gt-next": "^5.2.13",
+    "gtx-cli": "^1.1.5",
     "next": "^14.2.14",
     "react": "^18",
     "react-dom": "^18"

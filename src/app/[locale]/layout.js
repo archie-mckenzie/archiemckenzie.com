@@ -1,6 +1,6 @@
 
 
-import './stylesheet.css'
+import '../stylesheet.css'
 import getSFEmoji from '@/js/sf';
 import { getLocaleDirection } from 'generaltranslation';
 import { GTProvider } from 'gt-next';

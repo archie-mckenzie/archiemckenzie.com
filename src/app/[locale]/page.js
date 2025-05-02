@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link.js';
-import Title from '../components/Title.js'
+import Title from '../../components/Title.js'
 
 import { Branch, T, Var } from 'gt-next';
 import { useState } from 'react';

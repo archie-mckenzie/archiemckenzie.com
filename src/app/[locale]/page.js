@@ -30,7 +30,7 @@ export default function ArchieMcKenzie() {
                 }
               />
               <li><Link href='https://wikipedia.org/wiki/Brian_Kernighan' target='_blank'>Brian Kernighan</Link>'s TA from 2021-24.</li>
-              <li>Founder of <Link href='https://generaltranslation.com' target="_blank">General Translation, Inc.</Link>, which helps developers ship multilingual software.</li>
+              <li>Founder of <Link href='https://generaltranslation.com' target="_blank">General Translation, Inc.</Link>, which automates i18n for software companies.</li>
             </ul>
           </div>
           <p className='link-grid'>

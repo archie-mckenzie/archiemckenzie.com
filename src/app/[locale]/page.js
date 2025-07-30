@@ -3,22 +3,23 @@
 import Link from 'next/link.js';
 import Title from '../../components/Title.js'
 
-import { Branch, T, Var } from 'gt-next';
+import { Branch, T, Var, LocaleSelector, useLocale, useGT } from 'gt-next';
 import { useState } from 'react';
-
-import { LocaleSelector, useLocale } from 'gt-next/client'
 
 export default function ArchieMcKenzie() {
 
-  const [showFullDegree, setShowFullDegree] = useState(false)
   console.log(useLocale())
+
+  const [showFullDegree, setShowFullDegree] = useState(false)
+
+  const t = useGT();
 
   return (
     <>
       <Title/>
       <main>
         <T id='landing'>
-          <p><b>Hello, world!</b></p>
+          <p><b><Var>{t("Hello, world!")}</Var></b></p>
           <div style={{"marginBottom": "25px"}}>
             <ul>
               <li>Grew up in <Link href='https://en.wikipedia.org/wiki/Bath,_Somerset' target="_blank">Bath</Link>, England, as well as Kenya and New Zealand.</li>

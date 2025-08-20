@@ -12,14 +12,14 @@ export default function ArchieMcKenzie() {
 
   const [showFullDegree, setShowFullDegree] = useState(false)
 
-  const t = useGT();
+  const gt = useGT();
 
   return (
     <>
       <Title/>
       <main>
         <T id='landing'>
-          <p><b><Var>{t("Hello, world!")}</Var></b></p>
+          <p><b><Var>{gt("Hello, world!")}</Var></b></p>
           <div style={{"marginBottom": "25px"}}>
             <ul>
               <li>Grew up in <Link href='https://en.wikipedia.org/wiki/Bath,_Somerset' target="_blank">Bath</Link>, England, as well as Kenya and New Zealand.</li>

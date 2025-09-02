@@ -10,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "em-sound-smarter": "^1.0.0",
     "gt-next": "^6.2.0",
     "gtx-cli": "^2.1.4",
     "next": "^15.4.5",

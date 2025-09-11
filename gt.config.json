@@ -1,0 +1,16 @@
+{
+  "$schema": "https://assets.gtx.dev/config-schema.json",
+  "projectId": "prj_tajhxx1jzi5p5bg60e0v666f",
+  "locales": [
+    "en",
+    "de"
+  ],
+  "defaultLocale": "en",
+  "files": {
+    "gt": {
+      "output": "public/_gt/[locale].json"
+    }
+  },
+  "framework": "next-app",
+  "_versionId": "e3132d22fec059e74b4cca0d1311990c9b40156e05c06b91363655ea4138a470"
+}

@@ -10,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "gt-next": "^6.3.6",
     "next": "^15.4.5",
     "react": "^18",
     "react-dom": "^18"

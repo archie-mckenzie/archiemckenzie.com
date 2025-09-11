@@ -2,6 +2,7 @@
 
 import Link from 'next/link.js';
 import Title from '../../components/Title.js'
+import { T, Branch } from 'gt-next';
 
 import { useState } from 'react';
 
@@ -19,11 +20,10 @@ export default function ArchieMcKenzie() {
             <ul>
               <li>Grew up in <Link href='https://en.wikipedia.org/wiki/Bath,_Somerset' target="_blank">Bath</Link>, England, as well as Kenya and New Zealand.</li>
               <li>Studied <span onClick={() => {setShowFullDegree(prev => !prev)}} className="link-like">Computer Science</span> at Princeton.</li>
-              {
-                showFullDegree && (
-                  <li><b>B.A.</b> <Link href='https://www.cs.princeton.edu/ugrad/undergraduate-program' target="_blank">Computer Science</Link>, with certificates in <Link href="https://classics.princeton.edu/programs/undergraduate/minors-certificates" target="_blank">Classical Greek</Link>, and <Link href="https://hpd.princeton.edu/" target="_blank">History and the Practice of Diplomacy</Link>.</li>
-                )
-              }
+              <Branch 
+                branch={showFullDegree.toString()} 
+                true={<li><b>B.A.</b> <Link href='https://www.cs.princeton.edu/ugrad/undergraduate-program' target="_blank">Computer Science</Link>, with certificates in <Link href="https://classics.princeton.edu/programs/undergraduate/minors-certificates" target="_blank">Classical Greek</Link>, and <Link href="https://hpd.princeton.edu/" target="_blank">History and the Practice of Diplomacy</Link>.</li>}
+              />
               <li><Link href='https://wikipedia.org/wiki/Brian_Kernighan' target='_blank'>Brian Kernighan</Link>'s TA from 2021-24.</li>
               <li>Founder of <Link href='https://generaltranslation.com' target="_blank">General Translation, Inc.</Link>, which helps developers ship multilingual products.</li>
             </ul>

@@ -1,0 +1,141 @@
+{
+  "7d5205ea6699c68a": "Archie McKenzie",
+  "82d23907d5877695": "Archie McKenzie",
+  "landing": [
+    {
+      "t": "p",
+      "i": 1,
+      "c": {
+        "t": "b",
+        "i": 2,
+        "c": "Hallo, Welt!"
+      }
+    },
+    {
+      "t": "div",
+      "i": 3,
+      "c": {
+        "t": "ul",
+        "i": 4,
+        "c": [
+          {
+            "t": "li",
+            "i": 5,
+            "c": [
+              "Aufgewachsen in ",
+              {
+                "t": "Link",
+                "i": 6,
+                "c": "Bath"
+              },
+              ", England, sowie in Kenia und Neuseeland."
+            ]
+          },
+          {
+            "t": "li",
+            "i": 7,
+            "c": [
+              "Studierte ",
+              {
+                "t": "span",
+                "i": 8,
+                "c": "Informatik"
+              },
+              " in Princeton."
+            ]
+          },
+          {
+            "t": "Branch",
+            "i": 9,
+            "d": {
+              "t": "b",
+              "b": {
+                "true": {
+                  "t": "li",
+                  "i": 10,
+                  "c": [
+                    {
+                      "t": "b",
+                      "i": 11,
+                      "c": "B.A."
+                    },
+                    " ",
+                    {
+                      "t": "Link",
+                      "i": 12,
+                      "c": "Informatik"
+                    },
+                    ", mit Zertifikaten in ",
+                    {
+                      "t": "Link",
+                      "i": 13,
+                      "c": "Altgriechisch"
+                    },
+                    " sowie ",
+                    {
+                      "t": "Link",
+                      "i": 14,
+                      "c": "Geschichte und Praxis der Diplomatie"
+                    },
+                    "."
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "t": "li",
+            "i": 10,
+            "c": [
+              {
+                "t": "Link",
+                "i": 11,
+                "c": "Brian Kernighan"
+              },
+              "s Tutor von 2021–24."
+            ]
+          },
+          {
+            "t": "li",
+            "i": 12,
+            "c": [
+              "Gründer von ",
+              {
+                "t": "Link",
+                "i": 13,
+                "c": "General Translation, Inc."
+              },
+              ", das Entwicklerinnen und Entwicklern hilft, mehrsprachige Produkte zu liefern."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": "p",
+      "i": 14,
+      "c": [
+        {
+          "t": "Link",
+          "i": 15,
+          "c": "GitHub"
+        },
+        {
+          "t": "Link",
+          "i": 16,
+          "c": "Twitter"
+        },
+        {
+          "t": "Link",
+          "i": 17,
+          "c": "LinkedIn"
+        },
+        {
+          "t": "a",
+          "i": 18,
+          "c": "Melde dich!"
+        }
+      ]
+    }
+  ]
+}

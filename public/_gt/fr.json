@@ -1,0 +1,145 @@
+{
+  "8042e0a3d395c1fb": "Bonjour, le monde !",
+  "landing": [
+    {
+      "t": "p",
+      "i": 1,
+      "c": {
+        "t": "b",
+        "i": 2,
+        "c": {
+          "i": 3,
+          "k": "_gt_value_3",
+          "v": "v"
+        }
+      }
+    },
+    {
+      "t": "div",
+      "i": 4,
+      "c": {
+        "t": "ul",
+        "i": 5,
+        "c": [
+          {
+            "t": "li",
+            "i": 6,
+            "c": [
+              "A grandi à ",
+              {
+                "t": "Link",
+                "i": 7,
+                "c": "Bath"
+              },
+              ", en Angleterre, ainsi qu’au Kenya et en Nouvelle-Zélande."
+            ]
+          },
+          {
+            "t": "li",
+            "i": 8,
+            "c": [
+              "A étudié l’",
+              {
+                "t": "span",
+                "i": 9,
+                "c": "informatique"
+              },
+              " à Princeton."
+            ]
+          },
+          {
+            "t": "Branch",
+            "i": 10,
+            "d": {
+              "t": "b",
+              "b": {
+                "true": {
+                  "t": "li",
+                  "i": 11,
+                  "c": [
+                    {
+                      "i": 12,
+                      "k": "B.A.",
+                      "v": "v"
+                    },
+                    " ",
+                    {
+                      "t": "Link",
+                      "i": 13,
+                      "c": "Informatique"
+                    },
+                    ", avec des certificats en ",
+                    {
+                      "t": "Link",
+                      "i": 14,
+                      "c": "grec classique"
+                    },
+                    " et en ",
+                    {
+                      "t": "Link",
+                      "i": 15,
+                      "c": "histoire et pratique de la diplomatie"
+                    },
+                    "."
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "t": "li",
+            "i": 11,
+            "c": [
+              "Assistant pédagogique de ",
+              {
+                "t": "Link",
+                "i": 12,
+                "c": "Brian Kernighan"
+              },
+              " de 2021 à 2024."
+            ]
+          },
+          {
+            "t": "li",
+            "i": 13,
+            "c": [
+              "Fondateur de ",
+              {
+                "t": "Link",
+                "i": 14,
+                "c": "General Translation, Inc."
+              },
+              ", qui aide les développeurs à livrer des produits multilingues."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": "p",
+      "i": 15,
+      "c": [
+        {
+          "t": "Link",
+          "i": 16,
+          "c": "GitHub"
+        },
+        {
+          "t": "Link",
+          "i": 17,
+          "c": "Twitter"
+        },
+        {
+          "t": "Link",
+          "i": 18,
+          "c": "LinkedIn"
+        },
+        {
+          "t": "a",
+          "i": 19,
+          "c": "Contactez-moi !"
+        }
+      ]
+    }
+  ]
+}

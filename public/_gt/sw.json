@@ -1,0 +1,145 @@
+{
+  "8042e0a3d395c1fb": "Hujambo, dunia!",
+  "landing": [
+    {
+      "t": "p",
+      "i": 1,
+      "c": {
+        "t": "b",
+        "i": 2,
+        "c": {
+          "i": 3,
+          "k": "_gt_value_3",
+          "v": "v"
+        }
+      }
+    },
+    {
+      "t": "div",
+      "i": 4,
+      "c": {
+        "t": "ul",
+        "i": 5,
+        "c": [
+          {
+            "t": "li",
+            "i": 6,
+            "c": [
+              "Alikulia ",
+              {
+                "t": "Link",
+                "i": 7,
+                "c": "Bath"
+              },
+              ", Uingereza, pamoja na Kenya na New Zealand."
+            ]
+          },
+          {
+            "t": "li",
+            "i": 8,
+            "c": [
+              "Alisomea ",
+              {
+                "t": "span",
+                "i": 9,
+                "c": "Sayansi ya Kompyuta"
+              },
+              " katika Princeton."
+            ]
+          },
+          {
+            "t": "Branch",
+            "i": 10,
+            "d": {
+              "t": "b",
+              "b": {
+                "true": {
+                  "t": "li",
+                  "i": 11,
+                  "c": [
+                    {
+                      "i": 12,
+                      "k": "B.A.",
+                      "v": "v"
+                    },
+                    " ",
+                    {
+                      "t": "Link",
+                      "i": 13,
+                      "c": "Sayansi ya Kompyuta"
+                    },
+                    ", pamoja na vyeti katika ",
+                    {
+                      "t": "Link",
+                      "i": 14,
+                      "c": "Kiyunani cha Kale"
+                    },
+                    ", na ",
+                    {
+                      "t": "Link",
+                      "i": 15,
+                      "c": "Historia na Utendaji wa Diplomasia"
+                    },
+                    "."
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "t": "li",
+            "i": 11,
+            "c": [
+              "Msaidizi wa ufundishaji wa ",
+              {
+                "t": "Link",
+                "i": 12,
+                "c": "Brian Kernighan"
+              },
+              " kutoka 2021–24."
+            ]
+          },
+          {
+            "t": "li",
+            "i": 13,
+            "c": [
+              "Mwanzilishi wa ",
+              {
+                "t": "Link",
+                "i": 14,
+                "c": "General Translation, Inc."
+              },
+              ", kampuni inayosaidia watengenezaji kuzindua bidhaa nyingi lugha."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": "p",
+      "i": 15,
+      "c": [
+        {
+          "t": "Link",
+          "i": 16,
+          "c": "GitHub"
+        },
+        {
+          "t": "Link",
+          "i": 17,
+          "c": "Twitter"
+        },
+        {
+          "t": "Link",
+          "i": 18,
+          "c": "LinkedIn"
+        },
+        {
+          "t": "a",
+          "i": 19,
+          "c": "Wasiliana!"
+        }
+      ]
+    }
+  ]
+}

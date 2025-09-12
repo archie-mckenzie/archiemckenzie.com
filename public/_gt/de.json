@@ -1,0 +1,145 @@
+{
+  "8042e0a3d395c1fb": "Hallo, Welt!",
+  "landing": [
+    {
+      "t": "p",
+      "i": 1,
+      "c": {
+        "t": "b",
+        "i": 2,
+        "c": {
+          "i": 3,
+          "k": "_gt_value_3",
+          "v": "v"
+        }
+      }
+    },
+    {
+      "t": "div",
+      "i": 4,
+      "c": {
+        "t": "ul",
+        "i": 5,
+        "c": [
+          {
+            "t": "li",
+            "i": 6,
+            "c": [
+              "Aufgewachsen in ",
+              {
+                "t": "Link",
+                "i": 7,
+                "c": "Bath"
+              },
+              ", England, sowie in Kenia und Neuseeland."
+            ]
+          },
+          {
+            "t": "li",
+            "i": 8,
+            "c": [
+              "Studierte ",
+              {
+                "t": "span",
+                "i": 9,
+                "c": "Informatik"
+              },
+              " in Princeton."
+            ]
+          },
+          {
+            "t": "Branch",
+            "i": 10,
+            "d": {
+              "t": "b",
+              "b": {
+                "true": {
+                  "t": "li",
+                  "i": 11,
+                  "c": [
+                    {
+                      "i": 12,
+                      "k": "B.A.",
+                      "v": "v"
+                    },
+                    " ",
+                    {
+                      "t": "Link",
+                      "i": 13,
+                      "c": "Informatik"
+                    },
+                    ", mit Zertifikaten in ",
+                    {
+                      "t": "Link",
+                      "i": 14,
+                      "c": "Altgriechisch"
+                    },
+                    " und ",
+                    {
+                      "t": "Link",
+                      "i": 15,
+                      "c": "Geschichte und Praxis der Diplomatie"
+                    },
+                    "."
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "t": "li",
+            "i": 11,
+            "c": [
+              "Von 2021–24 TA von ",
+              {
+                "t": "Link",
+                "i": 12,
+                "c": "Brian Kernighan"
+              },
+              "."
+            ]
+          },
+          {
+            "t": "li",
+            "i": 13,
+            "c": [
+              "Gründer von ",
+              {
+                "t": "Link",
+                "i": 14,
+                "c": "General Translation, Inc."
+              },
+              ", das Entwicklerinnen und Entwicklern hilft, mehrsprachige Produkte auszuliefern."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "t": "p",
+      "i": 15,
+      "c": [
+        {
+          "t": "Link",
+          "i": 16,
+          "c": "GitHub"
+        },
+        {
+          "t": "Link",
+          "i": 17,
+          "c": "Twitter"
+        },
+        {
+          "t": "Link",
+          "i": 18,
+          "c": "LinkedIn"
+        },
+        {
+          "t": "a",
+          "i": 19,
+          "c": "Melde dich!"
+        }
+      ]
+    }
+  ]
+}

@@ -36,7 +36,7 @@ export default function ArchieMcKenzie() {
           </div>
           <p className='link-grid'>
             <Link href='https://github.com/archie-mckenzie' target="_blank">GitHub</Link>
-            <Link href='https://twitter.com/aksmckenzie' target="_blank">Twitter</Link>
+            <Link href='https://twitter.com/archiemckenzie_' target="_blank">Twitter</Link>
             <Link href='https://linkedin.com/in/archie-mckenzie' target="_blank">LinkedIn</Link>
             <a href='mailto:contact@archiemckenzie.com'>Get in touch!</a>
           </p>

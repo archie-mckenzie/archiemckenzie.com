@@ -2,60 +2,51 @@
   "8042e0a3d395c1fb": "Hujambo, dunia!",
   "landing": [
     {
-      "t": "p",
-      "i": 1,
       "c": {
-        "t": "b",
-        "i": 2,
         "c": {
           "i": 3,
           "k": "_gt_value_3",
           "v": "v"
-        }
-      }
+        },
+        "i": 2,
+        "t": "b"
+      },
+      "i": 1,
+      "t": "p"
     },
     {
-      "t": "div",
-      "i": 4,
       "c": {
-        "t": "ul",
-        "i": 5,
         "c": [
           {
-            "t": "li",
-            "i": 6,
             "c": [
               "Alikulia ",
               {
-                "t": "Link",
+                "c": "Bath",
                 "i": 7,
-                "c": "Bath"
+                "t": "Link"
               },
               ", Uingereza, pamoja na Kenya na New Zealand."
-            ]
+            ],
+            "i": 6,
+            "t": "li"
           },
           {
-            "t": "li",
-            "i": 8,
             "c": [
               "Alisomea ",
               {
-                "t": "span",
+                "c": "Sayansi ya Kompyuta",
                 "i": 9,
-                "c": "Sayansi ya Kompyuta"
+                "t": "span"
               },
               " katika Princeton."
-            ]
+            ],
+            "i": 8,
+            "t": "li"
           },
           {
-            "t": "Branch",
-            "i": 10,
             "d": {
-              "t": "b",
               "b": {
                 "true": {
-                  "t": "li",
-                  "i": 11,
                   "c": [
                     {
                       "i": 12,
@@ -64,82 +55,91 @@
                     },
                     " ",
                     {
-                      "t": "Link",
+                      "c": "Sayansi ya Kompyuta",
                       "i": 13,
-                      "c": "Sayansi ya Kompyuta"
+                      "t": "Link"
                     },
                     ", pamoja na vyeti katika ",
                     {
-                      "t": "Link",
+                      "c": "Kiyunani cha Kale",
                       "i": 14,
-                      "c": "Kiyunani cha Kale"
+                      "t": "Link"
                     },
                     ", na ",
                     {
-                      "t": "Link",
+                      "c": "Historia na Utendaji wa Diplomasia",
                       "i": 15,
-                      "c": "Historia na Utendaji wa Diplomasia"
+                      "t": "Link"
                     },
                     "."
-                  ]
+                  ],
+                  "i": 11,
+                  "t": "li"
                 }
-              }
-            }
+              },
+              "t": "b"
+            },
+            "i": 10,
+            "t": "Branch"
           },
           {
-            "t": "li",
-            "i": 11,
             "c": [
               "Msaidizi wa ufundishaji wa ",
               {
-                "t": "Link",
+                "c": "Brian Kernighan",
                 "i": 12,
-                "c": "Brian Kernighan"
+                "t": "Link"
               },
               " kutoka 2021–24."
-            ]
+            ],
+            "i": 11,
+            "t": "li"
           },
           {
-            "t": "li",
-            "i": 13,
             "c": [
               "Mwanzilishi wa ",
               {
-                "t": "Link",
+                "c": "General Translation, Inc.",
                 "i": 14,
-                "c": "General Translation, Inc."
+                "t": "Link"
               },
               ", kampuni inayosaidia watengenezaji kuzindua bidhaa nyingi lugha."
-            ]
+            ],
+            "i": 13,
+            "t": "li"
           }
-        ]
-      }
+        ],
+        "i": 5,
+        "t": "ul"
+      },
+      "i": 4,
+      "t": "div"
     },
     {
-      "t": "p",
-      "i": 15,
       "c": [
         {
-          "t": "Link",
+          "c": "GitHub",
           "i": 16,
-          "c": "GitHub"
+          "t": "Link"
         },
         {
-          "t": "Link",
+          "c": "Twitter",
           "i": 17,
-          "c": "Twitter"
+          "t": "Link"
         },
         {
-          "t": "Link",
+          "c": "LinkedIn",
           "i": 18,
-          "c": "LinkedIn"
+          "t": "Link"
         },
         {
-          "t": "a",
+          "c": "Wasiliana!",
           "i": 19,
-          "c": "Wasiliana!"
+          "t": "a"
         }
-      ]
+      ],
+      "i": 15,
+      "t": "p"
     }
   ]
 }

@@ -2,60 +2,51 @@
   "8042e0a3d395c1fb": "Hallo, wereld!",
   "landing": [
     {
-      "t": "p",
-      "i": 1,
       "c": {
-        "t": "b",
-        "i": 2,
         "c": {
           "i": 3,
           "k": "_gt_value_3",
           "v": "v"
-        }
-      }
+        },
+        "i": 2,
+        "t": "b"
+      },
+      "i": 1,
+      "t": "p"
     },
     {
-      "t": "div",
-      "i": 4,
       "c": {
-        "t": "ul",
-        "i": 5,
         "c": [
           {
-            "t": "li",
-            "i": 6,
             "c": [
               "Groeide op in ",
               {
-                "t": "Link",
+                "c": "Bath",
                 "i": 7,
-                "c": "Bath"
+                "t": "Link"
               },
               ", Engeland, evenals in Kenia en Nieuw-Zeeland."
-            ]
+            ],
+            "i": 6,
+            "t": "li"
           },
           {
-            "t": "li",
-            "i": 8,
             "c": [
               "Studeerde ",
               {
-                "t": "span",
+                "c": "Informatica",
                 "i": 9,
-                "c": "Informatica"
+                "t": "span"
               },
               " aan Princeton."
-            ]
+            ],
+            "i": 8,
+            "t": "li"
           },
           {
-            "t": "Branch",
-            "i": 10,
             "d": {
-              "t": "b",
               "b": {
                 "true": {
-                  "t": "li",
-                  "i": 11,
                   "c": [
                     {
                       "i": 12,
@@ -64,81 +55,90 @@
                     },
                     " ",
                     {
-                      "t": "Link",
+                      "c": "Informatica",
                       "i": 13,
-                      "c": "Informatica"
+                      "t": "Link"
                     },
                     ", met certificaten in ",
                     {
-                      "t": "Link",
+                      "c": "Klassiek Grieks",
                       "i": 14,
-                      "c": "Klassiek Grieks"
+                      "t": "Link"
                     },
                     " en ",
                     {
-                      "t": "Link",
+                      "c": "Geschiedenis en de Praktijk van Diplomatie",
                       "i": 15,
-                      "c": "Geschiedenis en de Praktijk van Diplomatie"
+                      "t": "Link"
                     },
                     "."
-                  ]
+                  ],
+                  "i": 11,
+                  "t": "li"
                 }
-              }
-            }
+              },
+              "t": "b"
+            },
+            "i": 10,
+            "t": "Branch"
           },
           {
-            "t": "li",
-            "i": 11,
             "c": [
               {
-                "t": "Link",
+                "c": "Brian Kernighan",
                 "i": 12,
-                "c": "Brian Kernighan"
+                "t": "Link"
               },
               "'s TA van 2021-24."
-            ]
+            ],
+            "i": 11,
+            "t": "li"
           },
           {
-            "t": "li",
-            "i": 13,
             "c": [
               "Oprichter van ",
               {
-                "t": "Link",
+                "c": "General Translation, Inc.",
                 "i": 14,
-                "c": "General Translation, Inc."
+                "t": "Link"
               },
               ", dat ontwikkelaars helpt meertalige producten te lanceren."
-            ]
+            ],
+            "i": 13,
+            "t": "li"
           }
-        ]
-      }
+        ],
+        "i": 5,
+        "t": "ul"
+      },
+      "i": 4,
+      "t": "div"
     },
     {
-      "t": "p",
-      "i": 15,
       "c": [
         {
-          "t": "Link",
+          "c": "GitHub",
           "i": 16,
-          "c": "GitHub"
+          "t": "Link"
         },
         {
-          "t": "Link",
+          "c": "Twitter",
           "i": 17,
-          "c": "Twitter"
+          "t": "Link"
         },
         {
-          "t": "Link",
+          "c": "LinkedIn",
           "i": 18,
-          "c": "LinkedIn"
+          "t": "Link"
         },
         {
-          "t": "a",
+          "c": "Neem contact op!",
           "i": 19,
-          "c": "Neem contact op!"
+          "t": "a"
         }
-      ]
+      ],
+      "i": 15,
+      "t": "p"
     }
   ]
 }

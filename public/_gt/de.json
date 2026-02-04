@@ -2,60 +2,51 @@
   "8042e0a3d395c1fb": "Hallo, Welt!",
   "landing": [
     {
-      "t": "p",
-      "i": 1,
       "c": {
-        "t": "b",
-        "i": 2,
         "c": {
           "i": 3,
           "k": "_gt_value_3",
           "v": "v"
-        }
-      }
+        },
+        "i": 2,
+        "t": "b"
+      },
+      "i": 1,
+      "t": "p"
     },
     {
-      "t": "div",
-      "i": 4,
       "c": {
-        "t": "ul",
-        "i": 5,
         "c": [
           {
-            "t": "li",
-            "i": 6,
             "c": [
               "Aufgewachsen in ",
               {
-                "t": "Link",
+                "c": "Bath",
                 "i": 7,
-                "c": "Bath"
+                "t": "Link"
               },
               ", England, sowie in Kenia und Neuseeland."
-            ]
+            ],
+            "i": 6,
+            "t": "li"
           },
           {
-            "t": "li",
-            "i": 8,
             "c": [
               "Studierte ",
               {
-                "t": "span",
+                "c": "Informatik",
                 "i": 9,
-                "c": "Informatik"
+                "t": "span"
               },
               " in Princeton."
-            ]
+            ],
+            "i": 8,
+            "t": "li"
           },
           {
-            "t": "Branch",
-            "i": 10,
             "d": {
-              "t": "b",
               "b": {
                 "true": {
-                  "t": "li",
-                  "i": 11,
                   "c": [
                     {
                       "i": 12,
@@ -64,82 +55,91 @@
                     },
                     " ",
                     {
-                      "t": "Link",
+                      "c": "Informatik",
                       "i": 13,
-                      "c": "Informatik"
+                      "t": "Link"
                     },
                     ", mit Zertifikaten in ",
                     {
-                      "t": "Link",
+                      "c": "Altgriechisch",
                       "i": 14,
-                      "c": "Altgriechisch"
+                      "t": "Link"
                     },
                     " und ",
                     {
-                      "t": "Link",
+                      "c": "Geschichte und Praxis der Diplomatie",
                       "i": 15,
-                      "c": "Geschichte und Praxis der Diplomatie"
+                      "t": "Link"
                     },
                     "."
-                  ]
+                  ],
+                  "i": 11,
+                  "t": "li"
                 }
-              }
-            }
+              },
+              "t": "b"
+            },
+            "i": 10,
+            "t": "Branch"
           },
           {
-            "t": "li",
-            "i": 11,
             "c": [
               "Von 2021–24 TA von ",
               {
-                "t": "Link",
+                "c": "Brian Kernighan",
                 "i": 12,
-                "c": "Brian Kernighan"
+                "t": "Link"
               },
               "."
-            ]
+            ],
+            "i": 11,
+            "t": "li"
           },
           {
-            "t": "li",
-            "i": 13,
             "c": [
               "Gründer von ",
               {
-                "t": "Link",
+                "c": "General Translation, Inc.",
                 "i": 14,
-                "c": "General Translation, Inc."
+                "t": "Link"
               },
               ", das Entwicklerinnen und Entwicklern hilft, mehrsprachige Produkte auszuliefern."
-            ]
+            ],
+            "i": 13,
+            "t": "li"
           }
-        ]
-      }
+        ],
+        "i": 5,
+        "t": "ul"
+      },
+      "i": 4,
+      "t": "div"
     },
     {
-      "t": "p",
-      "i": 15,
       "c": [
         {
-          "t": "Link",
+          "c": "GitHub",
           "i": 16,
-          "c": "GitHub"
+          "t": "Link"
         },
         {
-          "t": "Link",
+          "c": "Twitter",
           "i": 17,
-          "c": "Twitter"
+          "t": "Link"
         },
         {
-          "t": "Link",
+          "c": "LinkedIn",
           "i": 18,
-          "c": "LinkedIn"
+          "t": "Link"
         },
         {
-          "t": "a",
+          "c": "Melde dich!",
           "i": 19,
-          "c": "Melde dich!"
+          "t": "a"
         }
-      ]
+      ],
+      "i": 15,
+      "t": "p"
     }
   ]
 }

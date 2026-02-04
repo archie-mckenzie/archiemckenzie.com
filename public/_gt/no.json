@@ -2,60 +2,51 @@
   "8042e0a3d395c1fb": "Hei, verden!",
   "landing": [
     {
-      "t": "p",
-      "i": 1,
       "c": {
-        "t": "b",
-        "i": 2,
         "c": {
           "i": 3,
           "k": "_gt_value_3",
           "v": "v"
-        }
-      }
+        },
+        "i": 2,
+        "t": "b"
+      },
+      "i": 1,
+      "t": "p"
     },
     {
-      "t": "div",
-      "i": 4,
       "c": {
-        "t": "ul",
-        "i": 5,
         "c": [
           {
-            "t": "li",
-            "i": 6,
             "c": [
               "Vokste opp i ",
               {
-                "t": "Link",
+                "c": "Bath",
                 "i": 7,
-                "c": "Bath"
+                "t": "Link"
               },
               ", England, samt i Kenya og New Zealand."
-            ]
+            ],
+            "i": 6,
+            "t": "li"
           },
           {
-            "t": "li",
-            "i": 8,
             "c": [
               "Studerte ",
               {
-                "t": "span",
+                "c": "informatikk",
                 "i": 9,
-                "c": "informatikk"
+                "t": "span"
               },
               " ved Princeton."
-            ]
+            ],
+            "i": 8,
+            "t": "li"
           },
           {
-            "t": "Branch",
-            "i": 10,
             "d": {
-              "t": "b",
               "b": {
                 "true": {
-                  "t": "li",
-                  "i": 11,
                   "c": [
                     {
                       "i": 12,
@@ -64,81 +55,90 @@
                     },
                     " ",
                     {
-                      "t": "Link",
+                      "c": "Informatikk",
                       "i": 13,
-                      "c": "Informatikk"
+                      "t": "Link"
                     },
                     ", med sertifikater i ",
                     {
-                      "t": "Link",
+                      "c": "Klassisk gresk",
                       "i": 14,
-                      "c": "Klassisk gresk"
+                      "t": "Link"
                     },
                     " og ",
                     {
-                      "t": "Link",
+                      "c": "Historie og diplomatiets praksis",
                       "i": 15,
-                      "c": "Historie og diplomatiets praksis"
+                      "t": "Link"
                     },
                     "."
-                  ]
+                  ],
+                  "i": 11,
+                  "t": "li"
                 }
-              }
-            }
+              },
+              "t": "b"
+            },
+            "i": 10,
+            "t": "Branch"
           },
           {
-            "t": "li",
-            "i": 11,
             "c": [
               {
-                "t": "Link",
+                "c": "Brian Kernighan",
                 "i": 12,
-                "c": "Brian Kernighan"
+                "t": "Link"
               },
               "s TA fra 2021–24."
-            ]
+            ],
+            "i": 11,
+            "t": "li"
           },
           {
-            "t": "li",
-            "i": 13,
             "c": [
               "Grunnlegger av ",
               {
-                "t": "Link",
+                "c": "General Translation, Inc.",
                 "i": 14,
-                "c": "General Translation, Inc."
+                "t": "Link"
               },
               ", som hjelper utviklere med å levere flerspråklige produkter."
-            ]
+            ],
+            "i": 13,
+            "t": "li"
           }
-        ]
-      }
+        ],
+        "i": 5,
+        "t": "ul"
+      },
+      "i": 4,
+      "t": "div"
     },
     {
-      "t": "p",
-      "i": 15,
       "c": [
         {
-          "t": "Link",
+          "c": "GitHub",
           "i": 16,
-          "c": "GitHub"
+          "t": "Link"
         },
         {
-          "t": "Link",
+          "c": "Twitter",
           "i": 17,
-          "c": "Twitter"
+          "t": "Link"
         },
         {
-          "t": "Link",
+          "c": "LinkedIn",
           "i": 18,
-          "c": "LinkedIn"
+          "t": "Link"
         },
         {
-          "t": "a",
+          "c": "Ta kontakt!",
           "i": 19,
-          "c": "Ta kontakt!"
+          "t": "a"
         }
-      ]
+      ],
+      "i": 15,
+      "t": "p"
     }
   ]
 }

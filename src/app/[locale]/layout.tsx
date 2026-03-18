@@ -1,11 +1,9 @@
-
-
 import '../stylesheet.css'
 import getSFEmoji from '@/js/sf';
 import { GTProvider } from 'gt-next';
 import { getLocale } from 'gt-next/server'
 
-export default async function Layout({ children }) {
+export default async function Layout({ children }: { children: React.ReactNode }) {
   const sfEmoji = getSFEmoji();
   const locale = await getLocale();
   return (

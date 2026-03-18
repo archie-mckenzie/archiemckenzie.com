@@ -1,7 +1,12 @@
-// Returns true if it's day in SF, false if it's night
-function isDayInSF() {
+interface SunTimes {
+    averageSunrise: [number, number];
+    averageSunset: [number, number];
+}
 
-    const times = {
+// Returns true if it's day in SF, false if it's night
+function isDayInSF(): boolean {
+
+    const times: Record<string, SunTimes> = {
         "January": {
           "averageSunrise": [7, 20],
           "averageSunset": [17, 25]
@@ -51,10 +56,10 @@ function isDayInSF() {
           "averageSunset": [16, 55]
         }
     };
-      
-    
+
+
     const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-    
+
 
     const sfTime = new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
     const sfDate = new Date(sfTime);
@@ -78,9 +83,9 @@ function isDayInSF() {
     }
     return false;
 
-}   
+}
 
-export default function getSFEmoji() {
+export default function getSFEmoji(): string {
     if (isDayInSF()) return '🌁';
     return '🌉';
 }

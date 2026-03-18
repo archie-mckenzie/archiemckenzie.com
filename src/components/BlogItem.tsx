@@ -1,8 +1,15 @@
 import Link from "next/link"
 
+interface BlogItemProps {
+    href: string;
+    title: string;
+    description: string;
+    date: string;
+}
+
 export default function BlogItem({
     href, title, description, date
-}) {
+}: BlogItemProps) {
 
     const external = href.slice(0, 4) === "http";
 

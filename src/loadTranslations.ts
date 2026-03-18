@@ -1,5 +1,5 @@
 
-export default async function loadTranslations(locale) {
+export default async function loadTranslations(locale: string): Promise<Record<string, string>> {
     try {
       // Load translations from public/_gt directory
       // This matches the GT config files.gt.output path

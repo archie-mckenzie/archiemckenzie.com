@@ -1,6 +1,5 @@
 {
-  "8042e0a3d395c1fb": "Hallo, verden!",
-  "b9f84dc9405ddc42": "Ordliste",
+  "8042e0a3d395c1fb": "Hei, verden!",
   "landing": [
     {
       "c": {
@@ -26,7 +25,7 @@
                 "i": 7,
                 "t": "Link"
               },
-              " i England, Kenya og New Zealand."
+              ", England, samt i Kenya og New Zealand."
             ],
             "i": 6,
             "t": "li"
@@ -85,13 +84,13 @@
           },
           {
             "c": [
-              "Var ",
+              "Var undervisningsassistent for ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,
                 "t": "Link"
               },
-              "s undervisningsassistent fra 2021 til 2024."
+              " fra 2021–24."
             ],
             "i": 11,
             "t": "li"
@@ -104,7 +103,7 @@
                 "i": 14,
                 "t": "Link"
               },
-              ", som hjelper verdens beste selskaper med å lansere produkter på alle språk."
+              ", som hjelper verdens beste selskaper med å lansere produktene sine på alle språk."
             ],
             "i": 13,
             "t": "li"

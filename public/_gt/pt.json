@@ -1,6 +1,5 @@
 {
   "8042e0a3d395c1fb": "Olá, mundo!",
-  "b9f84dc9405ddc42": "Glossário",
   "landing": [
     {
       "c": {
@@ -26,7 +25,7 @@
                 "i": 7,
                 "t": "Link"
               },
-              ", na Inglaterra, e também no Kenya e em New Zealand."
+              ", England, e também na Kenya e em New Zealand."
             ],
             "i": 6,
             "t": "li"
@@ -68,7 +67,7 @@
                     },
                     " e ",
                     {
-                      "c": "História e Prática da Diplomacia",
+                      "c": "História e a Prática da Diplomacia",
                       "i": 15,
                       "t": "Link"
                     },
@@ -85,20 +84,20 @@
           },
           {
             "c": [
-              "Fui assistente de ensino de ",
+              "Fui monitor de ensino de ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,
                 "t": "Link"
               },
-              " de 2021-24."
+              " de 2021 a 2024."
             ],
             "i": 11,
             "t": "li"
           },
           {
             "c": [
-              "Sou fundador da ",
+              "Fundador da ",
               {
                 "c": "General Translation, Inc.",
                 "i": 14,

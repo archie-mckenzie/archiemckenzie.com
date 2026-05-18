@@ -1,6 +1,5 @@
 {
   "8042e0a3d395c1fb": "Hallo, wereld!",
-  "b9f84dc9405ddc42": "Woordenlijst",
   "landing": [
     {
       "c": {
@@ -26,7 +25,7 @@
                 "i": 7,
                 "t": "Link"
               },
-              ", Engeland, en daarnaast in Kenya en New Zealand."
+              ", England, maar ook in Kenya en New Zealand."
             ],
             "i": 6,
             "t": "li"
@@ -35,7 +34,7 @@
             "c": [
               "Studeerde ",
               {
-                "c": "Informatica",
+                "c": "informatica",
                 "i": 9,
                 "t": "span"
               },
@@ -68,7 +67,7 @@
                     },
                     " en ",
                     {
-                      "c": "Geschiedenis en de Praktijk van de Diplomatie",
+                      "c": "Geschiedenis en de Praktijk van Diplomatie",
                       "i": 15,
                       "t": "Link"
                     },
@@ -85,7 +84,7 @@
           },
           {
             "c": [
-              "Van 2021-24 student-assistent van ",
+              "Van 2021 tot 2024 onderwijsassistent van ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,
@@ -104,7 +103,7 @@
                 "i": 14,
                 "t": "Link"
               },
-              ", dat de beste bedrijven ter wereld helpt om hun producten in elke taal te lanceren."
+              ", dat de beste bedrijven ter wereld helpt hun producten in elke taal te lanceren."
             ],
             "i": 13,
             "t": "li"

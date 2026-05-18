@@ -1,5 +1,6 @@
 {
-  "8042e0a3d395c1fb": "Hujambo, dunia!",
+  "8042e0a3d395c1fb": "Habari, dunia!",
+  "b9f84dc9405ddc42": "Faharasa",
   "landing": [
     {
       "c": {
@@ -19,20 +20,20 @@
         "c": [
           {
             "c": [
-              "Alikulia ",
+              "Nilikulia ",
               {
                 "c": "Bath",
                 "i": 7,
                 "t": "Link"
               },
-              ", Uingereza, pamoja na Kenya na New Zealand."
+              ", Uingereza, na pia Kenya na New Zealand."
             ],
             "i": 6,
             "t": "li"
           },
           {
             "c": [
-              "Alisomea ",
+              "Nilisomea ",
               {
                 "c": "Sayansi ya Kompyuta",
                 "i": 9,
@@ -59,15 +60,15 @@
                       "i": 13,
                       "t": "Link"
                     },
-                    ", pamoja na vyeti katika ",
+                    ", pamoja na vyeti vya ",
                     {
-                      "c": "Kiyunani cha Kale",
+                      "c": "Kigiriki cha Kale",
                       "i": 14,
                       "t": "Link"
                     },
                     ", na ",
                     {
-                      "c": "Historia na Utendaji wa Diplomasia",
+                      "c": "Historia na Mazoezi ya Diplomasia",
                       "i": 15,
                       "t": "Link"
                     },
@@ -84,13 +85,13 @@
           },
           {
             "c": [
-              "Msaidizi wa ufundishaji wa ",
+              "Nilikuwa Msaidizi wa Kufundisha wa ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,
                 "t": "Link"
               },
-              " kutoka 2021–24."
+              " katika kipindi cha 2021-24."
             ],
             "i": 11,
             "t": "li"
@@ -103,7 +104,7 @@
                 "i": 14,
                 "t": "Link"
               },
-              ", kampuni inayosaidia watengenezaji kuzindua bidhaa nyingi lugha."
+              ", ambayo husaidia kampuni bora zaidi duniani kuzindua bidhaa zao katika kila lugha."
             ],
             "i": 13,
             "t": "li"
@@ -133,7 +134,7 @@
           "t": "Link"
         },
         {
-          "c": "Wasiliana!",
+          "c": "Wasiliana nasi!",
           "i": 19,
           "t": "a"
         }

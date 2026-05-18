@@ -1,5 +1,6 @@
 {
   "8042e0a3d395c1fb": "Ciao, mondo!",
+  "b9f84dc9405ddc42": "Glossario",
   "landing": [
     {
       "c": {
@@ -19,13 +20,13 @@
         "c": [
           {
             "c": [
-              "Cresciuto a ",
+              "Ha trascorso l'infanzia a ",
               {
                 "c": "Bath",
                 "i": 7,
                 "t": "Link"
               },
-              ", Inghilterra, oltre che in Kenya e Nuova Zelanda."
+              ", in Inghilterra, e anche in Kenya e in New Zealand."
             ],
             "i": 6,
             "t": "li"
@@ -61,7 +62,7 @@
                     },
                     ", con certificati in ",
                     {
-                      "c": "Greco classico",
+                      "c": "Greco antico",
                       "i": 14,
                       "t": "Link"
                     },
@@ -103,7 +104,7 @@
                 "i": 14,
                 "t": "Link"
               },
-              ", che aiuta gli sviluppatori a distribuire prodotti multilingue."
+              ", che aiuta le migliori aziende del mondo a lanciare i propri prodotti in ogni lingua."
             ],
             "i": 13,
             "t": "li"
@@ -133,7 +134,7 @@
           "t": "Link"
         },
         {
-          "c": "Mettiti in contatto!",
+          "c": "Contattami!",
           "i": 19,
           "t": "a"
         }

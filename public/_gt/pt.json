@@ -1,5 +1,6 @@
 {
   "8042e0a3d395c1fb": "Olá, mundo!",
+  "b9f84dc9405ddc42": "Glossário",
   "landing": [
     {
       "c": {
@@ -19,20 +20,20 @@
         "c": [
           {
             "c": [
-              "Cresceu em ",
+              "Cresci em ",
               {
                 "c": "Bath",
                 "i": 7,
                 "t": "Link"
               },
-              ", Inglaterra, assim como no Quênia e na Nova Zelândia."
+              ", na Inglaterra, e também no Kenya e em New Zealand."
             ],
             "i": 6,
             "t": "li"
           },
           {
             "c": [
-              "Estudou ",
+              "Estudei ",
               {
                 "c": "Ciência da Computação",
                 "i": 9,
@@ -84,26 +85,26 @@
           },
           {
             "c": [
-              "Monitor de ",
+              "Fui assistente de ensino de ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,
                 "t": "Link"
               },
-              " de 2021 a 24."
+              " de 2021-24."
             ],
             "i": 11,
             "t": "li"
           },
           {
             "c": [
-              "Fundador da ",
+              "Sou fundador da ",
               {
                 "c": "General Translation, Inc.",
                 "i": 14,
                 "t": "Link"
               },
-              ", que ajuda desenvolvedores a lançar produtos multilíngues."
+              ", que ajuda as melhores empresas do mundo a lançar seus produtos em todos os idiomas."
             ],
             "i": 13,
             "t": "li"

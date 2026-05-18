@@ -1,5 +1,6 @@
 {
   "8042e0a3d395c1fb": "Hallo, Welt!",
+  "b9f84dc9405ddc42": "Glossar",
   "landing": [
     {
       "c": {
@@ -25,7 +26,7 @@
                 "i": 7,
                 "t": "Link"
               },
-              ", England, sowie in Kenia und Neuseeland."
+              " in England sowie in Kenya und New Zealand."
             ],
             "i": 6,
             "t": "li"
@@ -67,7 +68,7 @@
                     },
                     " und ",
                     {
-                      "c": "Geschichte und Praxis der Diplomatie",
+                      "c": "Geschichte und Diplomatische Praxis",
                       "i": 15,
                       "t": "Link"
                     },
@@ -84,7 +85,7 @@
           },
           {
             "c": [
-              "Von 2021–24 TA von ",
+              "2021–24 Tutor von ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,
@@ -103,7 +104,7 @@
                 "i": 14,
                 "t": "Link"
               },
-              ", das Entwicklerinnen und Entwicklern hilft, mehrsprachige Produkte auszuliefern."
+              ", das die besten Unternehmen der Welt dabei unterstützt, ihre Produkte in jeder Sprache auf den Markt zu bringen."
             ],
             "i": 13,
             "t": "li"
@@ -133,7 +134,7 @@
           "t": "Link"
         },
         {
-          "c": "Melde dich!",
+          "c": "Kontakt aufnehmen!",
           "i": 19,
           "t": "a"
         }

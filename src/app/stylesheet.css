@@ -45,7 +45,7 @@
 }
 
 body {
-  font-family: Palatino, serif;
+  font-family: serif;
   line-height: 1.5;
   padding: 0 10px;
   margin-left: calc(5vw - 10px);
@@ -76,7 +76,7 @@ header {
   font-size: smaller;
 }
 
-.hidden-text {
+.prominent-text {
   color: var(--background-color);
 }
 

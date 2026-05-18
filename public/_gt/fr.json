@@ -1,5 +1,6 @@
 {
   "8042e0a3d395c1fb": "Bonjour, le monde !",
+  "b9f84dc9405ddc42": "Glossaire",
   "landing": [
     {
       "c": {
@@ -19,20 +20,20 @@
         "c": [
           {
             "c": [
-              "A grandi à ",
+              "J’ai grandi à ",
               {
                 "c": "Bath",
                 "i": 7,
                 "t": "Link"
               },
-              ", en Angleterre, ainsi qu’au Kenya et en Nouvelle-Zélande."
+              ", en Angleterre, ainsi qu’au Kenya et en New Zealand."
             ],
             "i": 6,
             "t": "li"
           },
           {
             "c": [
-              "A étudié l’",
+              "J’ai étudié l’",
               {
                 "c": "informatique",
                 "i": 9,
@@ -61,13 +62,13 @@
                     },
                     ", avec des certificats en ",
                     {
-                      "c": "grec classique",
+                      "c": "Grec classique",
                       "i": 14,
                       "t": "Link"
                     },
                     " et en ",
                     {
-                      "c": "histoire et pratique de la diplomatie",
+                      "c": "Histoire et pratique de la diplomatie",
                       "i": 15,
                       "t": "Link"
                     },
@@ -84,7 +85,7 @@
           },
           {
             "c": [
-              "Assistant pédagogique de ",
+              "Chargé de TD pour ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,
@@ -103,7 +104,7 @@
                 "i": 14,
                 "t": "Link"
               },
-              ", qui aide les développeurs à livrer des produits multilingues."
+              ", qui aide les meilleures entreprises du monde à lancer leurs produits dans toutes les langues."
             ],
             "i": 13,
             "t": "li"
@@ -133,7 +134,7 @@
           "t": "Link"
         },
         {
-          "c": "Contactez-moi !",
+          "c": "Contactez-moi !",
           "i": 19,
           "t": "a"
         }

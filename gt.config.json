@@ -14,11 +14,11 @@
     "no",
     "sw"
   ],
-  "projectId": "0f4b0f25-d7ae-4585-8ea6-63b457a6c0f5",
+  "baseUrl": "https://api.gtx.wtf",
   "files": {
     "gt": {
       "output": "public/_gt/[locale].json"
     }
   },
-  "_versionId": "aa14461bc8a7021c76dcfa688e99972f2f96331d66235d3b7754ba2f9db84ebb"
+  "_versionId": "e68b664c2c7302c72fcbc80b891d325e08e0cf994ee4e7dd415e0267731ff3e4"
 }

@@ -1,5 +1,6 @@
 {
-  "8042e0a3d395c1fb": "Hei, verden!",
+  "8042e0a3d395c1fb": "Hallo, verden!",
+  "b9f84dc9405ddc42": "Ordliste",
   "landing": [
     {
       "c": {
@@ -25,7 +26,7 @@
                 "i": 7,
                 "t": "Link"
               },
-              ", England, samt i Kenya og New Zealand."
+              " i England, Kenya og New Zealand."
             ],
             "i": 6,
             "t": "li"
@@ -61,13 +62,13 @@
                     },
                     ", med sertifikater i ",
                     {
-                      "c": "Klassisk gresk",
+                      "c": "klassisk gresk",
                       "i": 14,
                       "t": "Link"
                     },
                     " og ",
                     {
-                      "c": "Historie og diplomatiets praksis",
+                      "c": "historie og diplomatisk praksis",
                       "i": 15,
                       "t": "Link"
                     },
@@ -84,12 +85,13 @@
           },
           {
             "c": [
+              "Var ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,
                 "t": "Link"
               },
-              "s TA fra 2021–24."
+              "s undervisningsassistent fra 2021 til 2024."
             ],
             "i": 11,
             "t": "li"
@@ -102,7 +104,7 @@
                 "i": 14,
                 "t": "Link"
               },
-              ", som hjelper utviklere med å levere flerspråklige produkter."
+              ", som hjelper verdens beste selskaper med å lansere produkter på alle språk."
             ],
             "i": 13,
             "t": "li"

@@ -1,5 +1,6 @@
 {
   "8042e0a3d395c1fb": "¡Hola, mundo!",
+  "b9f84dc9405ddc42": "Glosario",
   "landing": [
     {
       "c": {
@@ -25,7 +26,7 @@
                 "i": 7,
                 "t": "Link"
               },
-              ", Inglaterra, así como en Kenia y Nueva Zelanda."
+              ", Inglaterra, y también en Kenya y New Zealand."
             ],
             "i": 6,
             "t": "li"
@@ -34,7 +35,7 @@
             "c": [
               "Estudié ",
               {
-                "c": "Computer Science",
+                "c": "Informática",
                 "i": 9,
                 "t": "span"
               },
@@ -61,13 +62,13 @@
                     },
                     ", con certificados en ",
                     {
-                      "c": "Griego clásico",
+                      "c": "Griego Clásico",
                       "i": 14,
                       "t": "Link"
                     },
-                    " y ",
+                    " e ",
                     {
-                      "c": "Historia y práctica de la diplomacia",
+                      "c": "Historia y Práctica de la Diplomacia",
                       "i": 15,
                       "t": "Link"
                     },
@@ -84,13 +85,13 @@
           },
           {
             "c": [
-              "TA de ",
+              "Fui ayudante de docencia de ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,
                 "t": "Link"
               },
-              " de 2021 a 2024."
+              " de 2021-24."
             ],
             "i": 11,
             "t": "li"
@@ -103,7 +104,7 @@
                 "i": 14,
                 "t": "Link"
               },
-              ", que ayuda a los desarrolladores a lanzar productos multilingües."
+              ", que ayuda a las mejores empresas del mundo a lanzar sus productos en todos los idiomas."
             ],
             "i": 13,
             "t": "li"

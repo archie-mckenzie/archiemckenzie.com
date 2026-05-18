@@ -1,6 +1,5 @@
 {
   "8042e0a3d395c1fb": "Hallo, Welt!",
-  "b9f84dc9405ddc42": "Glossar",
   "landing": [
     {
       "c": {
@@ -26,7 +25,7 @@
                 "i": 7,
                 "t": "Link"
               },
-              " in England sowie in Kenya und New Zealand."
+              ", England, sowie in Kenia und Neuseeland."
             ],
             "i": 6,
             "t": "li"
@@ -39,7 +38,7 @@
                 "i": 9,
                 "t": "span"
               },
-              " in Princeton."
+              " an Princeton."
             ],
             "i": 8,
             "t": "li"
@@ -68,7 +67,7 @@
                     },
                     " und ",
                     {
-                      "c": "Geschichte und Diplomatische Praxis",
+                      "c": "Geschichte und Diplomatiepraxis",
                       "i": 15,
                       "t": "Link"
                     },
@@ -85,7 +84,7 @@
           },
           {
             "c": [
-              "2021–24 Tutor von ",
+              "2021–24 Tutor für ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,
@@ -104,7 +103,7 @@
                 "i": 14,
                 "t": "Link"
               },
-              ", das die besten Unternehmen der Welt dabei unterstützt, ihre Produkte in jeder Sprache auf den Markt zu bringen."
+              ", das den weltweit besten Unternehmen dabei hilft, ihre Produkte in allen Sprachen auf den Markt zu bringen."
             ],
             "i": 13,
             "t": "li"
@@ -134,7 +133,7 @@
           "t": "Link"
         },
         {
-          "c": "Kontakt aufnehmen!",
+          "c": "Nimm Kontakt auf!",
           "i": 19,
           "t": "a"
         }

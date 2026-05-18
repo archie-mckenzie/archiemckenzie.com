@@ -1,6 +1,5 @@
 {
-  "8042e0a3d395c1fb": "Habari, dunia!",
-  "b9f84dc9405ddc42": "Faharasa",
+  "8042e0a3d395c1fb": "Hujambo, dunia!",
   "landing": [
     {
       "c": {
@@ -20,13 +19,13 @@
         "c": [
           {
             "c": [
-              "Nilikulia ",
+              "Nimekulia ",
               {
                 "c": "Bath",
                 "i": 7,
                 "t": "Link"
               },
-              ", Uingereza, na pia Kenya na New Zealand."
+              ", England, na pia Kenya na New Zealand."
             ],
             "i": 6,
             "t": "li"
@@ -91,7 +90,7 @@
                 "i": 12,
                 "t": "Link"
               },
-              " katika kipindi cha 2021-24."
+              " kutoka 2021 hadi 2024."
             ],
             "i": 11,
             "t": "li"
@@ -104,7 +103,7 @@
                 "i": 14,
                 "t": "Link"
               },
-              ", ambayo husaidia kampuni bora zaidi duniani kuzindua bidhaa zao katika kila lugha."
+              ", inayosaidia kampuni bora zaidi duniani kuzindua bidhaa zao kwa kila lugha."
             ],
             "i": 13,
             "t": "li"

@@ -1,6 +1,5 @@
 {
   "8042e0a3d395c1fb": "Ciao, mondo!",
-  "b9f84dc9405ddc42": "Glossario",
   "landing": [
     {
       "c": {
@@ -20,20 +19,20 @@
         "c": [
           {
             "c": [
-              "Ha trascorso l'infanzia a ",
+              "Sono cresciuto a ",
               {
                 "c": "Bath",
                 "i": 7,
                 "t": "Link"
               },
-              ", in Inghilterra, e anche in Kenya e in New Zealand."
+              ", in England, ma anche in Kenya e in New Zealand."
             ],
             "i": 6,
             "t": "li"
           },
           {
             "c": [
-              "Ha studiato ",
+              "Ho studiato ",
               {
                 "c": "Informatica",
                 "i": 9,
@@ -62,13 +61,13 @@
                     },
                     ", con certificati in ",
                     {
-                      "c": "Greco antico",
+                      "c": "Greco Classico",
                       "i": 14,
                       "t": "Link"
                     },
                     " e ",
                     {
-                      "c": "Storia e pratica della diplomazia",
+                      "c": "Storia e Pratica della Diplomazia",
                       "i": 15,
                       "t": "Link"
                     },
@@ -104,7 +103,7 @@
                 "i": 14,
                 "t": "Link"
               },
-              ", che aiuta le migliori aziende del mondo a lanciare i propri prodotti in ogni lingua."
+              ", che aiuta alcune delle migliori aziende al mondo a lanciare i propri prodotti in tutte le lingue."
             ],
             "i": 13,
             "t": "li"
@@ -134,7 +133,7 @@
           "t": "Link"
         },
         {
-          "c": "Contattami!",
+          "c": "Mettiti in contatto!",
           "i": 19,
           "t": "a"
         }

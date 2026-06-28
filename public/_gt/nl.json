@@ -1,5 +1,6 @@
 {
   "8042e0a3d395c1fb": "Hallo, wereld!",
+  "829f58f3b79c1ac5": "Oprichter van General Translation, Inc., toegepast filoloog en vriend van alle AI-agenten.",
   "landing": [
     {
       "c": {
@@ -19,13 +20,13 @@
         "c": [
           {
             "c": [
-              "Opgegroeid in ",
+              "Groeide op in ",
               {
                 "c": "Bath",
                 "i": 7,
                 "t": "Link"
               },
-              ", England, maar ook in Kenya en New Zealand."
+              ", England, en ook in Kenya en New Zealand."
             ],
             "i": 6,
             "t": "li"
@@ -84,7 +85,7 @@
           },
           {
             "c": [
-              "Van 2021 tot 2024 onderwijsassistent van ",
+              "Was van 2021-24 onderwijsassistent van ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,
@@ -115,7 +116,7 @@
                 "i": 16,
                 "t": "Link"
               },
-              ", dat 's werelds beste bedrijven helpt hun producten in elke taal te lanceren."
+              ", dat toonaangevende bedrijven over de hele wereld helpt hun producten in elke taal te lanceren."
             ],
             "i": 15,
             "t": "li"

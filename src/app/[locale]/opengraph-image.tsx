@@ -1,5 +1,6 @@
 import { ImageResponse } from 'next/og'
 import { getGT } from 'gt-next/server'
+import getSFEmoji from '@/js/sf'
 
 // Image metadata
 export const alt = 'Archie McKenzie'
@@ -9,12 +10,8 @@ export const size = {
 }
 export const contentType = 'image/png'
 
-// The light mode SF emoji (daytime: Golden Gate Bridge in fog)
-const sfEmoji = '🌁'
-
 // Image generation
 export default async function Image() {
-  const t = await getGT();
   return new ImageResponse(
     (
       <div
@@ -28,13 +25,11 @@ export default async function Image() {
           gap: 32,
           background: 'white',
           color: 'black',
+          fontFamily: 'serif',
         }}
       >
-        <div style={{ fontSize: 220, display: 'flex' }}>{sfEmoji}</div>
-        <div style={{ fontSize: 64, fontWeight: 600 }}>Archie McKenzie</div>
-        <div style={{ fontSize: 36, color: '#555' }}>
-          {t('Founder of General Translation, applied philologist, and friend to all AI agents.')}
-        </div>
+        <div style={{ fontSize: 220, display: 'flex' }}>{getSFEmoji()}</div>
+        <div style={{ fontSize: 64, fontWeight: 600, fontFamily: 'serif' }}>Archie McKenzie</div>
       </div>
     ),
     {

@@ -1,5 +1,6 @@
 {
   "8042e0a3d395c1fb": "Olá, mundo!",
+  "829f58f3b79c1ac5": "Fundador da General Translation, especialista em filologia aplicada e amigo de todos os agentes de IA.",
   "landing": [
     {
       "c": {
@@ -67,7 +68,7 @@
                     },
                     " e ",
                     {
-                      "c": "História e a Prática da Diplomacia",
+                      "c": "História e Prática da Diplomacia",
                       "i": 15,
                       "t": "Link"
                     },
@@ -84,7 +85,7 @@
           },
           {
             "c": [
-              "Monitor de ensino de ",
+              "Fui monitor de ensino do ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,

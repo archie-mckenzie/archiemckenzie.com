@@ -1,5 +1,6 @@
 {
-  "8042e0a3d395c1fb": "Bonjour, le monde !",
+  "8042e0a3d395c1fb": "Bonjour, le monde !",
+  "829f58f3b79c1ac5": "Fondateur de General Translation, philologue appliqué et ami de tous les agents d’IA.",
   "landing": [
     {
       "c": {
@@ -67,7 +68,7 @@
                     },
                     " et en ",
                     {
-                      "c": "Histoire et pratique de la diplomatie",
+                      "c": "histoire et pratique de la diplomatie",
                       "i": 15,
                       "t": "Link"
                     },
@@ -84,7 +85,7 @@
           },
           {
             "c": [
-              "A été assistant d’enseignement de ",
+              "A été l’assistant d’enseignement de ",
               {
                 "c": "Brian Kernighan",
                 "i": 12,
@@ -115,7 +116,7 @@
                 "i": 16,
                 "t": "Link"
               },
-              ", qui aide les meilleures entreprises du monde à lancer leurs produits dans toutes les langues."
+              ", qui aide les meilleures entreprises au monde à lancer leurs produits dans toutes les langues."
             ],
             "i": 15,
             "t": "li"

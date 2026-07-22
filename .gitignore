@@ -16,6 +16,9 @@
 # production
 /build
 
+# generated translations
+/public/_gt/
+
 # misc
 .DS_Store
 *.pem

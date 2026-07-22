@@ -1,4 +1,5 @@
 {
+  "defaultLocale": "en",
   "locales": [
     "es",
     "fr",
@@ -14,11 +15,9 @@
     "no",
     "sw"
   ],
-  "baseUrl": "https://api.gtx.wtf",
   "files": {
     "gt": {
       "output": "public/_gt/[locale].json"
     }
-  },
-  "_versionId": "8ac8ef53cba32120dac27e9e67bd4fadb83b0ceb67f560b895a62c297c184fdb"
+  }
 }

@@ -1,10 +1,11 @@
 # archiemckenzie.com
 
-My personal website, archiemckenzie.com. If you're wondering why I push to it so much, it's because I'm using it as a testing ground for [gt-react](https://github.com/General-Translation/gt-react), my internationalization library.
-
-This is a [Next.js](https://nextjs.org/) project.
+My personal website, archiemckenzie.com. I sometimes use it as a testing ground for [gt-next](https://github.com/generaltranslation/gt).
 
 ## Getting Started
+
+
+This is a [Next.js](https://nextjs.org/) project.
 
 To run the development server:
 

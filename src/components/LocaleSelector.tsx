@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import { useSetLocale } from "gt-next";
 
 const localeOptions = [
   { code: "de", name: "Deutsch" },
@@ -22,6 +23,7 @@ const localeOptions = [
 export default function LocaleSelector({ locale }: { locale: string }) {
   const [isOpen, setIsOpen] = useState(false);
   const rootRef = useRef<HTMLSpanElement>(null);
+  const setLocale = useSetLocale();
 
   useEffect(() => {
     const closeOnOutsideClick = (event: PointerEvent) => {
@@ -42,15 +44,6 @@ export default function LocaleSelector({ locale }: { locale: string }) {
   }, []);
 
   const currentLocale = localeOptions.find((option) => option.code === locale) ?? localeOptions[1];
-
-  const changeLocale = (nextLocale: string) => {
-    const segments = window.location.pathname.split("/").filter(Boolean);
-    if (localeOptions.some((option) => option.code === segments[0])) segments.shift();
-
-    const suffix = segments.length ? `/${segments.join("/")}` : "";
-    const nextPath = nextLocale === "en" ? suffix || "/" : `/${nextLocale}${suffix}`;
-    window.location.assign(nextPath);
-  };
 
   return (
     <span className="language-selector" ref={rootRef}>
@@ -81,7 +74,7 @@ export default function LocaleSelector({ locale }: { locale: string }) {
                 role="option"
                 aria-selected={isSelected}
                 onClick={() => {
-                  changeLocale(option.code);
+                  setLocale(option.code);
                   setIsOpen(false);
                 }}
               >

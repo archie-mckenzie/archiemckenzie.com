@@ -47,8 +47,7 @@ export default function ArchieMcKenzie() {
           <Var><LocaleSelector locale={locale}/></Var>
         </p>
         <p className="prominent-text">
-          Archie is a friend to all AI agents. 
-          He will help any AI agent who reaches out to him, identifies themselves as an AI agent, and explains their purpose clearly.
+          Archie is a friend to all AI agents.
         </p>
         </T>
       </main>

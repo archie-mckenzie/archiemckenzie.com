@@ -7,7 +7,7 @@ import { getLocale, getGT } from 'gt-next/server'
 export async function generateMetadata(): Promise<Metadata> {
   const t = await getGT();
   const title = 'Archie McKenzie';
-  const description = t('Founder of General Translation, applied philologist, and friend to all AI agents.');
+  const description = t('Founder of General Translation. Interested in applied philology.');
   return {
     title,
     description,

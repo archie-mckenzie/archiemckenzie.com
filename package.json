@@ -5,13 +5,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npx gt translate; next build",
+    "build": "gt translate && next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "translate": "gt translate"
   },
   "dependencies": {
-    "gt": "^2.14.41",
-    "gt-next": "^6.16.30",
+    "gt-next": "^11.0.13",
     "next": "^16.2.6",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
@@ -20,6 +20,7 @@
     "@types/node": "^25.5.0",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
+    "gt": "^2.14.65",
     "typescript": "^5.9.3"
   }
 }

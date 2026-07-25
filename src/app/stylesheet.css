@@ -211,9 +211,7 @@ main li a:hover,
 }
 
 .language-selector__menu {
-  position: absolute;
-  top: calc(100% + 6px);
-  left: 0;
+  position: fixed;
   z-index: 50;
   display: grid;
   width: 100%;
@@ -285,6 +283,10 @@ hr {
 }
 
 @media (max-width: 480px) {
+  header {
+    padding-top: 24px;
+  }
+
   .link-grid {
     gap: 4px 28px;
   }

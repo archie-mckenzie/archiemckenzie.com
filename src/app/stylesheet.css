@@ -262,21 +262,16 @@ main li a:hover,
 }
 
 .theme-toggle {
-  display: flex;
-  width: var(--selector-width);
+  display: grid;
+  width: 34px;
   height: 34px;
-  flex: 0 0 var(--selector-width);
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 10px;
-  border: 1px solid var(--border);
+  flex: 0 0 34px;
+  place-items: center;
+  padding: 0;
+  border: 1px solid transparent;
   border-radius: 8px;
-  color: var(--text-primary);
-  background: var(--control);
-  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  font-size: 12px;
-  font-weight: 500;
-  line-height: 1;
+  color: var(--text-secondary);
+  background: transparent;
   cursor: pointer;
   transition:
     color 150ms ease,
@@ -285,7 +280,9 @@ main li a:hover,
 }
 
 .theme-toggle:hover {
-  border-color: var(--text-tertiary);
+  border-color: var(--border);
+  color: var(--text-primary);
+  background: var(--control);
 }
 
 .theme-toggle svg {

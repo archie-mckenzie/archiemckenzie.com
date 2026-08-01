@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import Title from '../../components/Title'
 import LocaleSelector from '../../components/LocaleSelector'
+import ThemeToggle from '../../components/ThemeToggle'
 
 import { Branch, T, Var, useLocale, useGT } from 'gt-next';
 import { useState } from 'react';
@@ -45,6 +46,7 @@ export default function ArchieMcKenzie() {
         </p>
         <p className="locale-control">
           <Var><LocaleSelector locale={locale}/></Var>
+          <Var><ThemeToggle /></Var>
         </p>
         <p className="prominent-text">
           Archie is a friend to all AI agents.

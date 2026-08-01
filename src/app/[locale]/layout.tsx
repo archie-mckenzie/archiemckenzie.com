@@ -4,6 +4,10 @@ import getSFEmoji from '@/js/sf';
 import { GTProvider } from 'gt-next';
 import { getLocale, getGT } from 'gt-next/server'
 
+type LayoutProps = {
+  children: React.ReactNode;
+};
+
 export async function generateMetadata(): Promise<Metadata> {
   const t = await getGT();
   const title = 'Archie McKenzie';
@@ -24,7 +28,7 @@ export async function generateMetadata(): Promise<Metadata> {
   };
 }
 
-export default async function Layout({ children }: { children: React.ReactNode }) {
+export default async function Layout({ children }: LayoutProps) {
   const sfEmoji = getSFEmoji();
   const locale = await getLocale();
   return (

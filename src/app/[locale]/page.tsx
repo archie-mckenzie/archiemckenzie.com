@@ -34,7 +34,7 @@ export default function ArchieMcKenzie() {
                   <li><Var name="B.A.">A.B.</Var> <Link href='https://www.cs.princeton.edu/ugrad/undergraduate-program' target="_blank">Computer Science</Link>, minoring in <Link href="https://classics.princeton.edu/programs/undergraduate/minors-certificates" target="_blank">Classical Greek</Link>, and <Link href="https://hpd.princeton.edu/" target="_blank">History and the Practice of Diplomacy</Link>.</li>
                 }
               />
-              <li><Link href='https://wikipedia.org/wiki/Brian_Kernighan' target='_blank'>Brian Kernighan</Link>&apos;s TA from 2021-24.</li>
+              <li>Worked for <Link href='https://wikipedia.org/wiki/Brian_Kernighan' target='_blank'>Brian Kernighan</Link> from 2021-24.</li>
               <li>Founder and CEO of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, which helps the world&apos;s best companies launch their products in every language.</li>
             </ul>
           </div>

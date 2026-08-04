@@ -31,9 +31,9 @@ export default function ArchieMcKenzie() {
               <li>Studied <span onClick={() => {setShowFullDegree(prev => !prev)}} className="link-like">Computer Science</span> at Princeton.</li>
               <Derive>
                 {
-                  showFullDegree && (
+                  showFullDegree ? (
                     <li><Link href='https://www.cs.princeton.edu/ugrad/undergraduate-program' target="_blank">Computer Science</Link>, <Link href="https://classics.princeton.edu/programs/undergraduate/minors-certificates" target="_blank">Classical Greek</Link>, and <Link href="https://hpd.princeton.edu/" target="_blank">History and the Practice of Diplomacy</Link>.</li>
-                  )
+                  ) : ''
                 }
               </Derive>
               <li>Worked for <Link href='https://wikipedia.org/wiki/Brian_Kernighan' target='_blank'>Brian Kernighan</Link> from 2021-24.</li>

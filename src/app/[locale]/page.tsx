@@ -22,7 +22,7 @@ export default function ArchieMcKenzie() {
     <div className="page">
       <Title/>
       <main>
-        <T id='landing'>
+        <T>
           <p><b><Var>{gt("Hello, world!")}</Var></b></p>
           <div style={{"marginBottom": "25px"}}>
             <ul>

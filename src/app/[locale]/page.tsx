@@ -32,7 +32,7 @@ export default function ArchieMcKenzie() {
               <Derive>
                 {
                   showFullDegree ? (
-                    <li><Link href='https://www.cs.princeton.edu/ugrad/undergraduate-program' target="_blank">Computer Science</Link>, with <Link href="https://classics.princeton.edu/programs/undergraduate/minors-certificates" target="_blank">Classical Greek</Link>, and <Link href="https://hpd.princeton.edu/" target="_blank">History and the Practice of Diplomacy</Link>.</li>
+                    <li><Link href='https://www.cs.princeton.edu/ugrad/undergraduate-program' target="_blank">Computer Science</Link>, with <Link href="https://classics.princeton.edu/programs/undergraduate/minors-certificates" target="_blank">Classical Greek</Link> and <Link href="https://hpd.princeton.edu/" target="_blank">History and the Practice of Diplomacy</Link>.</li>
                   ) : ''
                 }
               </Derive>

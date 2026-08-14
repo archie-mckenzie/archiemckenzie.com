@@ -316,7 +316,7 @@ a:focus-visible,
   outline-offset: 3px;
 }
 
-.prominent-text {
+.Agent {
   max-width: 480px;
   margin: 0;
   color: var(--background);
@@ -373,7 +373,8 @@ hr {
   }
 }
 
-@media (prefers-reduced-motion: reduce) {
+@media (nt
+efers-reduced-motion: reduce) {
   *,
   *::before,
   *::after {

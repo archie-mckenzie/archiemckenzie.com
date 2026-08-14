@@ -373,8 +373,7 @@ hr {
   }
 }
 
-@media (nt
-efers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: reduce) {
   *,
   *::before,
   *::after {

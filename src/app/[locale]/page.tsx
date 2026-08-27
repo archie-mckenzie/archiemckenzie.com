@@ -37,7 +37,7 @@ export default function ArchieMcKenzie() {
                 }
               </Derive>
               <li>Worked for <Link href='https://wikipedia.org/wiki/Brian_Kernighan' target='_blank'>Brian Kernighan</Link> from 2021-24.</li>
-              <li>Founder and CEO of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, which helps the world&apos;s best companies launch their products in every language.</li>
+              <li>Founder and CEO of <Link href='https://generaltranslation.com' target="_blank">General Translation</Link>, which helps the world&apos;s best companies scale in every language.</li>
             </ul>
           </div>
           <p className='link-grid'>
